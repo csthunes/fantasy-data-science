@@ -1,0 +1,31 @@
+Rank,Player,SACK,INT,FR,FF,DefTD,SFTY,SpcTD,G,FPTS,FPTS/G,ROST,Season,Week
+1,Baltimore Ravens (BAL),11,0,0,1,0,0,0,1,21,21,44.1%,2018,6
+2,Houston Texans (HOU),2,2,1,0,1,0,0,1,18,18,3.8%,2018,6
+3,Seattle Seahawks (SEA),6,0,2,3,0,0,0,1,17,17,5.1%,2018,6
+4,Arizona Cardinals (ARI),4,1,1,1,1,0,0,1,14,14,14.4%,2018,6
+5,Buffalo Bills (BUF),7,2,1,3,0,0,0,1,14,14,99.6%,2018,6
+6,New York Jets (NYJ),0,3,1,1,1,0,0,1,13,13,2.0%,2018,6
+7,Minnesota Vikings (MIN),4,1,1,1,0,0,0,1,12,12,12.2%,2018,6
+8,Dallas Cowboys (DAL),3,1,1,1,0,0,0,1,11,11,73.8%,2018,6
+9,Los Angeles Chargers (LAC),5,2,0,0,0,0,0,1,10,10,52.5%,2018,6
+10,Philadelphia Eagles (PHI),4,1,0,1,0,0,0,1,10,10,40.7%,2018,6
+11,Washington Commanders (WAS),1,1,2,2,0,0,0,1,8,8,40.4%,2018,6
+12,Green Bay Packers (GB),2,1,2,1,0,0,0,1,7,7,75.5%,2018,6
+13,Denver Broncos (DEN),5,1,0,0,0,0,0,1,7,7,44.1%,2018,6
+14,Miami Dolphins (MIA),2,1,2,2,0,0,0,1,7,7,58.2%,2018,6
+15,Atlanta Falcons (ATL),2,2,0,0,0,0,0,1,5,5,0.5%,2018,6
+16,Chicago Bears (CHI),0,2,1,1,0,0,0,1,5,5,2.9%,2018,6
+17,Los Angeles Rams (LAR),2,1,0,1,0,0,0,1,5,5,69.6%,2018,6
+18,Las Vegas Raiders (LV),1,1,0,0,0,0,0,1,3,3,6.4%,2018,6
+19,Pittsburgh Steelers (PIT),3,0,0,0,0,0,0,1,3,3,23.6%,2018,6
+20,Carolina Panthers (CAR),3,0,0,1,0,0,0,1,3,3,6.1%,2018,6
+21,Tennessee Titans (TEN),0,1,0,0,0,0,0,1,2,2,8.1%,2018,6
+22,Indianapolis Colts (IND),2,1,1,2,0,0,0,1,2,2,57.4%,2018,6
+23,San Francisco 49ers (SF),3,0,0,0,0,0,0,1,2,2,83.9%,2018,6
+24,New England Patriots (NE),0,2,0,0,0,0,0,1,0,0,46.6%,2018,6
+26,New York Giants (NYG),1,0,0,1,0,0,0,1,0,0,1.8%,2018,6
+28,Kansas City Chiefs (KC),2,0,1,2,0,0,0,1,0,0,41.6%,2018,6
+29,Tampa Bay Buccaneers (TB),1,0,0,1,0,0,0,1,0,0,95.4%,2018,6
+30,Jacksonville Jaguars (JAC),3,0,0,0,0,0,0,1,-1,-1,1.0%,2018,6
+31,Cincinnati Bengals (CIN),0,0,0,1,0,0,0,1,-1,-1,22.4%,2018,6
+32,Cleveland Browns (CLE),1,1,0,0,0,0,0,1,-1,-1,21.9%,2018,6

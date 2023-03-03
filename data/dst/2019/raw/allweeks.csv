@@ -1,0 +1,513 @@
+Rank,Player,SACK,INT,FR,FF,DefTD,SFTY,SpcTD,G,FPTS,FPTS/G,ROST,Season,Week
+6,Arizona Cardinals (ARI),8,1,2,3,0,0,0,1,15,15,9.3%,2019,7
+4,Arizona Cardinals (ARI),5,0,1,2,0,0,0,1,11,11,9.3%,2019,16
+11,Arizona Cardinals (ARI),4,2,1,1,0,0,0,1,9,9,9.3%,2019,10
+14,Arizona Cardinals (ARI),3,0,2,2,0,0,0,1,7,7,9.3%,2019,1
+12,Arizona Cardinals (ARI),3,0,2,3,0,0,0,1,7,7,9.3%,2019,14
+16,Arizona Cardinals (ARI),2,2,0,0,0,0,0,1,5,5,9.3%,2019,11
+19,Arizona Cardinals (ARI),1,1,1,1,0,0,0,1,5,5,9.3%,2019,15
+22,Arizona Cardinals (ARI),4,0,0,3,0,0,0,1,4,4,9.3%,2019,4
+27,Arizona Cardinals (ARI),2,0,0,1,0,0,0,1,2,2,9.3%,2019,2
+27,Arizona Cardinals (ARI),1,0,0,0,0,0,0,1,1,1,9.3%,2019,5
+23,Arizona Cardinals (ARI),2,0,0,1,0,0,0,1,1,1,9.3%,2019,6
+28,Arizona Cardinals (ARI),0,1,0,0,0,0,0,1,1,1,9.3%,2019,8
+31,Arizona Cardinals (ARI),2,0,1,2,0,0,0,1,0,0,9.3%,2019,3
+28,Arizona Cardinals (ARI),1,0,0,0,0,0,0,1,0,0,9.3%,2019,9
+31,Arizona Cardinals (ARI),1,0,0,0,0,0,0,1,0,0,9.3%,2019,13
+30,Arizona Cardinals (ARI),1,0,0,0,0,0,0,1,0,0,9.3%,2019,17
+1,Atlanta Falcons (ATL),5,4,0,0,0,0,1,1,26,26,2.7%,2019,11
+4,Atlanta Falcons (ATL),5,2,2,2,0,0,0,1,14,14,2.7%,2019,14
+3,Atlanta Falcons (ATL),1,2,1,2,1,0,0,1,14,14,2.7%,2019,17
+6,Atlanta Falcons (ATL),1,0,2,2,1,0,0,1,11,11,2.7%,2019,15
+5,Atlanta Falcons (ATL),3,2,1,0,0,0,0,1,10,10,2.7%,2019,2
+10,Atlanta Falcons (ATL),6,0,0,0,0,0,0,1,10,10,2.7%,2019,10
+10,Atlanta Falcons (ATL),3,0,1,0,0,0,0,1,9,9,2.7%,2019,16
+18,Atlanta Falcons (ATL),0,2,0,0,0,0,0,1,5,5,2.7%,2019,12
+27,Atlanta Falcons (ATL),2,0,0,0,0,0,0,1,2,2,2.7%,2019,8
+27,Atlanta Falcons (ATL),1,0,0,0,0,0,0,1,1,1,2.7%,2019,3
+27,Atlanta Falcons (ATL),1,0,0,1,0,0,0,1,0,0,2.7%,2019,1
+27,Atlanta Falcons (ATL),0,0,0,3,0,0,0,1,0,0,2.7%,2019,4
+30,Atlanta Falcons (ATL),0,0,0,0,0,0,0,1,0,0,2.7%,2019,13
+28,Atlanta Falcons (ATL),0,0,0,0,0,0,0,1,-1,-1,2.7%,2019,6
+26,Atlanta Falcons (ATL),0,0,0,0,0,0,0,1,-1,-1,2.7%,2019,7
+30,Atlanta Falcons (ATL),0,0,1,3,0,0,0,1,-2,-2,2.7%,2019,5
+2,Baltimore Ravens (BAL),2,1,2,2,2,0,0,1,24,24,90.6%,2019,10
+4,Baltimore Ravens (BAL),1,1,1,0,2,0,0,1,18,18,90.6%,2019,7
+2,Baltimore Ravens (BAL),2,0,2,2,1,0,0,1,16,16,90.6%,2019,17
+4,Baltimore Ravens (BAL),7,1,1,1,0,0,0,1,15,15,90.6%,2019,11
+6,Baltimore Ravens (BAL),3,2,1,0,0,0,0,1,13,13,90.6%,2019,1
+4,Baltimore Ravens (BAL),2,1,1,1,1,0,0,1,13,13,90.6%,2019,9
+5,Baltimore Ravens (BAL),2,2,0,1,0,0,0,1,13,13,90.6%,2019,12
+10,Baltimore Ravens (BAL),6,0,1,2,0,0,0,1,9,9,90.6%,2019,14
+10,Baltimore Ravens (BAL),1,1,1,1,0,0,0,1,8,8,90.6%,2019,15
+14,Baltimore Ravens (BAL),2,0,1,1,0,0,0,1,7,7,90.6%,2019,13
+16,Baltimore Ravens (BAL),1,1,1,2,0,0,0,1,5,5,90.6%,2019,5
+17,Baltimore Ravens (BAL),2,1,0,0,0,0,0,1,5,5,90.6%,2019,6
+23,Baltimore Ravens (BAL),3,0,0,0,0,0,0,1,4,4,90.6%,2019,2
+20,Baltimore Ravens (BAL),1,1,0,0,0,0,0,1,4,4,90.6%,2019,16
+30,Baltimore Ravens (BAL),1,0,0,2,0,0,0,1,0,0,90.6%,2019,3
+30,Baltimore Ravens (BAL),1,1,0,0,0,0,0,1,-1,-1,90.6%,2019,4
+3,Buffalo Bills (BUF),4,4,1,3,0,0,0,1,18,18,96.0%,2019,15
+6,Buffalo Bills (BUF),4,1,0,0,0,0,0,1,13,13,96.0%,2019,12
+11,Buffalo Bills (BUF),2,2,2,2,0,0,0,1,11,11,96.0%,2019,3
+8,Buffalo Bills (BUF),5,0,0,0,0,0,0,1,11,11,96.0%,2019,5
+9,Buffalo Bills (BUF),1,1,1,2,0,0,1,1,11,11,96.0%,2019,7
+9,Buffalo Bills (BUF),4,1,1,3,0,0,0,1,11,11,96.0%,2019,13
+9,Buffalo Bills (BUF),4,0,1,0,0,0,0,1,10,10,96.0%,2019,1
+9,Buffalo Bills (BUF),7,0,1,0,0,0,0,1,10,10,96.0%,2019,11
+7,Buffalo Bills (BUF),4,0,0,1,0,0,0,1,8,8,96.0%,2019,9
+13,Buffalo Bills (BUF),2,1,0,0,0,0,0,1,8,8,96.0%,2019,17
+17,Buffalo Bills (BUF),1,2,0,1,0,0,0,1,6,6,96.0%,2019,2
+18,Buffalo Bills (BUF),0,1,0,1,0,0,0,1,6,6,96.0%,2019,4
+17,Buffalo Bills (BUF),2,0,0,0,0,1,0,1,5,5,96.0%,2019,10
+23,Buffalo Bills (BUF),3,0,1,1,0,0,0,1,4,4,96.0%,2019,8
+22,Buffalo Bills (BUF),1,1,0,0,0,0,0,1,3,3,96.0%,2019,14
+25,Buffalo Bills (BUF),0,0,1,1,0,0,0,1,2,2,96.0%,2019,16
+3,Carolina Panthers (CAR),7,5,2,2,0,0,0,1,21,21,7.6%,2019,6
+7,Carolina Panthers (CAR),6,1,1,1,0,0,0,1,14,14,7.6%,2019,4
+4,Carolina Panthers (CAR),2,0,3,2,1,0,0,1,14,14,7.6%,2019,5
+8,Carolina Panthers (CAR),8,2,0,0,0,0,0,1,13,13,7.6%,2019,3
+5,Carolina Panthers (CAR),4,2,1,1,0,0,0,1,11,11,7.6%,2019,9
+16,Carolina Panthers (CAR),3,0,0,0,0,1,0,1,6,6,7.6%,2019,2
+16,Carolina Panthers (CAR),5,0,0,1,0,0,0,1,6,6,7.6%,2019,13
+21,Carolina Panthers (CAR),1,1,0,0,0,0,0,1,4,4,7.6%,2019,1
+26,Carolina Panthers (CAR),3,1,0,0,0,1,0,1,3,3,7.6%,2019,8
+22,Carolina Panthers (CAR),2,1,0,0,0,0,0,1,3,3,7.6%,2019,12
+25,Carolina Panthers (CAR),2,1,0,0,0,0,0,1,3,3,7.6%,2019,15
+23,Carolina Panthers (CAR),2,0,0,0,0,0,0,1,2,2,7.6%,2019,10
+23,Carolina Panthers (CAR),3,0,0,1,0,0,0,1,2,2,7.6%,2019,11
+30,Carolina Panthers (CAR),3,0,0,0,0,0,0,1,-1,-1,7.6%,2019,16
+31,Carolina Panthers (CAR),1,0,0,0,0,0,0,1,-3,-3,7.6%,2019,14
+31,Carolina Panthers (CAR),1,0,0,0,0,0,0,1,-3,-3,7.6%,2019,17
+1,Chicago Bears (CHI),4,3,2,3,1,0,0,1,21,21,2.2%,2019,3
+4,Chicago Bears (CHI),6,0,2,3,0,0,0,1,17,17,2.2%,2019,4
+12,Chicago Bears (CHI),5,0,0,1,0,0,0,1,9,9,2.2%,2019,1
+12,Chicago Bears (CHI),0,2,1,0,0,1,0,1,9,9,2.2%,2019,17
+14,Chicago Bears (CHI),2,1,0,0,0,0,0,1,8,8,2.2%,2019,10
+22,Chicago Bears (CHI),2,1,0,0,0,0,0,1,5,5,2.2%,2019,2
+18,Chicago Bears (CHI),0,1,1,3,0,0,0,1,5,5,2.2%,2019,11
+19,Chicago Bears (CHI),2,1,0,0,0,0,0,1,5,5,2.2%,2019,13
+21,Chicago Bears (CHI),0,0,2,1,0,0,0,1,4,4,2.2%,2019,5
+22,Chicago Bears (CHI),1,1,0,0,0,0,0,1,4,4,2.2%,2019,8
+18,Chicago Bears (CHI),4,0,0,0,0,0,0,1,4,4,2.2%,2019,9
+19,Chicago Bears (CHI),1,0,1,1,0,0,0,1,4,4,2.2%,2019,12
+16,Chicago Bears (CHI),1,0,0,0,0,0,1,1,3,3,2.2%,2019,7
+25,Chicago Bears (CHI),2,0,0,0,0,0,0,1,2,2,2.2%,2019,14
+29,Chicago Bears (CHI),1,0,0,0,0,0,0,1,1,1,2.2%,2019,15
+27,Chicago Bears (CHI),1,0,0,0,0,0,0,1,1,1,2.2%,2019,16
+6,Cincinnati Bengals (CIN),4,0,0,0,0,1,0,1,13,13,33.1%,2019,13
+8,Cincinnati Bengals (CIN),6,3,0,1,0,0,0,1,12,12,33.1%,2019,17
+10,Cincinnati Bengals (CIN),1,0,1,1,0,0,1,1,9,9,33.1%,2019,6
+14,Cincinnati Bengals (CIN),3,1,1,1,0,0,0,1,8,8,33.1%,2019,11
+18,Cincinnati Bengals (CIN),4,0,1,1,0,0,0,1,6,6,33.1%,2019,1
+15,Cincinnati Bengals (CIN),3,1,0,0,0,0,0,1,6,6,33.1%,2019,12
+19,Cincinnati Bengals (CIN),1,1,1,2,0,0,0,1,5,5,33.1%,2019,3
+17,Cincinnati Bengals (CIN),1,2,0,0,0,0,0,1,5,5,33.1%,2019,14
+26,Cincinnati Bengals (CIN),0,0,1,1,0,0,0,1,2,2,33.1%,2019,4
+21,Cincinnati Bengals (CIN),2,0,0,0,0,0,0,1,2,2,33.1%,2019,7
+29,Cincinnati Bengals (CIN),1,0,0,0,0,0,0,1,1,1,33.1%,2019,5
+28,Cincinnati Bengals (CIN),2,0,0,1,0,0,0,1,1,1,33.1%,2019,15
+30,Cincinnati Bengals (CIN),0,0,0,0,0,0,0,1,0,0,33.1%,2019,8
+28,Cincinnati Bengals (CIN),2,1,0,1,0,0,0,1,0,0,33.1%,2019,16
+26,Cincinnati Bengals (CIN),1,1,0,0,0,0,0,1,-1,-1,33.1%,2019,10
+32,Cincinnati Bengals (CIN),0,1,0,0,0,0,0,1,-2,-2,33.1%,2019,2
+3,Cleveland Browns (CLE),4,4,0,1,0,0,0,1,16,16,42.7%,2019,11
+2,Cleveland Browns (CLE),4,0,1,1,0,0,0,1,13,13,42.7%,2019,2
+8,Cleveland Browns (CLE),2,1,0,1,1,0,0,1,11,11,42.7%,2019,14
+13,Cleveland Browns (CLE),4,2,1,1,0,0,0,1,10,10,42.7%,2019,4
+12,Cleveland Browns (CLE),2,2,1,1,0,0,0,1,9,9,42.7%,2019,3
+10,Cleveland Browns (CLE),4,2,0,1,0,0,0,1,8,8,42.7%,2019,12
+17,Cleveland Browns (CLE),3,0,0,0,0,0,0,1,5,5,42.7%,2019,8
+16,Cleveland Browns (CLE),3,0,1,1,0,0,0,1,5,5,42.7%,2019,9
+19,Cleveland Browns (CLE),3,0,1,2,0,0,0,1,4,4,42.7%,2019,6
+21,Cleveland Browns (CLE),1,1,0,1,0,0,0,1,4,4,42.7%,2019,13
+24,Cleveland Browns (CLE),2,0,0,0,0,0,0,1,3,3,42.7%,2019,5
+22,Cleveland Browns (CLE),1,0,0,1,0,0,0,1,2,2,42.7%,2019,10
+25,Cleveland Browns (CLE),1,1,0,0,0,0,0,1,2,2,42.7%,2019,17
+26,Cleveland Browns (CLE),0,0,1,1,0,0,0,1,1,1,42.7%,2019,16
+29,Cleveland Browns (CLE),4,0,0,0,0,0,0,1,0,0,42.7%,2019,1
+31,Cleveland Browns (CLE),0,1,0,0,0,0,0,1,-2,-2,42.7%,2019,15
+3,Dallas Cowboys (DAL),5,1,2,2,1,0,0,1,18,18,90.0%,2019,9
+8,Dallas Cowboys (DAL),3,1,3,3,0,0,0,1,15,15,90.0%,2019,7
+9,Dallas Cowboys (DAL),3,0,1,1,0,0,0,1,12,12,90.0%,2019,3
+11,Dallas Cowboys (DAL),5,1,0,0,0,0,0,1,11,11,90.0%,2019,4
+14,Dallas Cowboys (DAL),2,1,1,1,0,0,0,1,7,7,90.0%,2019,17
+17,Dallas Cowboys (DAL),1,0,2,3,0,0,0,1,6,6,90.0%,2019,1
+16,Dallas Cowboys (DAL),2,0,0,1,0,0,0,1,6,6,90.0%,2019,12
+18,Dallas Cowboys (DAL),2,1,1,1,0,0,0,1,5,5,90.0%,2019,14
+18,Dallas Cowboys (DAL),2,1,0,0,0,0,0,1,4,4,90.0%,2019,6
+20,Dallas Cowboys (DAL),4,0,0,0,0,0,0,1,4,4,90.0%,2019,13
+20,Dallas Cowboys (DAL),2,1,0,0,0,0,0,1,4,4,90.0%,2019,15
+20,Dallas Cowboys (DAL),3,0,0,0,0,0,0,1,3,3,90.0%,2019,11
+24,Dallas Cowboys (DAL),1,0,0,1,0,0,0,1,2,2,90.0%,2019,16
+31,Dallas Cowboys (DAL),1,0,0,0,0,0,0,1,1,1,90.0%,2019,2
+28,Dallas Cowboys (DAL),2,0,0,0,0,0,0,1,1,1,90.0%,2019,5
+25,Dallas Cowboys (DAL),1,0,0,0,0,0,0,1,0,0,90.0%,2019,10
+2,Denver Broncos (DEN),7,3,0,1,0,0,0,1,23,23,32.3%,2019,6
+2,Denver Broncos (DEN),3,2,1,1,1,0,0,1,15,15,32.3%,2019,14
+10,Denver Broncos (DEN),0,2,0,1,0,0,0,1,10,10,32.3%,2019,5
+12,Denver Broncos (DEN),5,0,2,1,0,0,0,1,9,9,32.3%,2019,11
+13,Denver Broncos (DEN),3,1,1,0,0,0,0,1,8,8,32.3%,2019,13
+14,Denver Broncos (DEN),4,0,1,2,0,0,0,1,7,7,32.3%,2019,8
+20,Denver Broncos (DEN),5,0,0,1,0,0,0,1,5,5,32.3%,2019,4
+16,Denver Broncos (DEN),3,1,0,0,0,0,0,1,5,5,32.3%,2019,15
+15,Denver Broncos (DEN),4,0,0,0,0,0,0,1,5,5,32.3%,2019,16
+19,Denver Broncos (DEN),2,0,1,1,0,0,0,1,5,5,32.3%,2019,17
+21,Denver Broncos (DEN),1,1,0,0,0,0,0,1,4,4,32.3%,2019,12
+20,Denver Broncos (DEN),2,0,0,0,0,0,0,1,3,3,32.3%,2019,9
+30,Denver Broncos (DEN),0,0,0,0,0,0,0,1,1,1,32.3%,2019,2
+25,Denver Broncos (DEN),1,0,0,0,0,0,0,1,1,1,32.3%,2019,7
+28,Denver Broncos (DEN),0,0,0,0,0,0,0,1,0,0,32.3%,2019,1
+29,Denver Broncos (DEN),0,0,0,0,0,0,0,1,0,0,32.3%,2019,3
+6,Detroit Lions (DET),3,0,2,2,0,0,1,1,13,13,4.0%,2019,3
+8,Detroit Lions (DET),3,0,1,2,1,0,0,1,11,11,4.0%,2019,8
+7,Detroit Lions (DET),1,1,1,1,0,0,0,1,9,9,4.0%,2019,2
+11,Detroit Lions (DET),3,1,1,1,0,0,0,1,8,8,4.0%,2019,12
+15,Detroit Lions (DET),5,1,0,0,0,0,0,1,7,7,4.0%,2019,1
+14,Detroit Lions (DET),1,1,2,1,0,0,0,1,7,7,4.0%,2019,6
+15,Detroit Lions (DET),5,0,0,0,0,0,0,1,6,6,4.0%,2019,10
+14,Detroit Lions (DET),0,0,0,0,0,0,1,1,6,6,4.0%,2019,16
+21,Detroit Lions (DET),0,0,3,2,0,0,0,1,5,5,4.0%,2019,4
+24,Detroit Lions (DET),1,1,0,0,0,0,0,1,3,3,4.0%,2019,13
+24,Detroit Lions (DET),2,1,0,0,0,0,0,1,3,3,4.0%,2019,15
+22,Detroit Lions (DET),1,1,0,1,0,0,0,1,3,3,4.0%,2019,17
+27,Detroit Lions (DET),1,0,0,0,0,0,0,1,2,2,4.0%,2019,14
+27,Detroit Lions (DET),1,0,0,0,0,0,0,1,0,0,4.0%,2019,9
+27,Detroit Lions (DET),1,0,1,1,0,0,0,1,-1,-1,4.0%,2019,11
+28,Detroit Lions (DET),0,0,0,2,0,0,0,1,-4,-4,4.0%,2019,7
+5,Green Bay Packers (GB),5,1,0,0,0,0,0,1,14,14,67.2%,2019,1
+7,Green Bay Packers (GB),6,1,2,1,0,0,0,1,13,13,67.2%,2019,3
+5,Green Bay Packers (GB),3,2,1,1,0,0,0,1,13,13,67.2%,2019,15
+3,Green Bay Packers (GB),1,2,2,3,0,0,0,1,12,12,67.2%,2019,2
+5,Green Bay Packers (GB),5,1,0,0,0,0,0,1,11,11,67.2%,2019,16
+11,Green Bay Packers (GB),0,3,0,0,0,0,0,1,10,10,67.2%,2019,13
+11,Green Bay Packers (GB),3,3,0,1,0,0,0,1,9,9,67.2%,2019,5
+12,Green Bay Packers (GB),3,1,1,1,0,0,0,1,8,8,67.2%,2019,10
+15,Green Bay Packers (GB),4,1,0,2,0,0,0,1,7,7,67.2%,2019,14
+21,Green Bay Packers (GB),2,0,1,1,0,0,0,1,4,4,67.2%,2019,8
+21,Green Bay Packers (GB),1,1,0,0,0,0,0,1,4,4,67.2%,2019,17
+21,Green Bay Packers (GB),3,0,0,0,0,0,0,1,3,3,67.2%,2019,6
+19,Green Bay Packers (GB),0,1,0,1,0,0,0,1,2,2,67.2%,2019,7
+24,Green Bay Packers (GB),2,0,0,0,0,0,0,1,2,2,67.2%,2019,9
+29,Green Bay Packers (GB),0,0,0,0,0,0,0,1,-1,-1,67.2%,2019,4
+27,Green Bay Packers (GB),3,0,0,0,0,0,0,1,-1,-1,67.2%,2019,12
+2,Houston Texans (HOU),3,4,1,1,1,0,0,1,22,22,0.8%,2019,16
+1,Houston Texans (HOU),4,2,2,3,0,0,0,1,19,19,0.8%,2019,9
+6,Houston Texans (HOU),4,0,1,3,0,0,0,1,10,10,0.8%,2019,2
+15,Houston Texans (HOU),3,0,3,3,0,0,0,1,10,10,0.8%,2019,4
+12,Houston Texans (HOU),2,1,0,1,1,0,0,1,9,9,0.8%,2019,5
+14,Houston Texans (HOU),5,0,1,1,0,0,0,1,8,8,0.8%,2019,3
+13,Houston Texans (HOU),2,1,0,0,0,0,0,1,6,6,0.8%,2019,15
+15,Houston Texans (HOU),1,1,1,1,0,0,0,1,5,5,0.8%,2019,6
+18,Houston Texans (HOU),3,1,0,0,0,0,0,1,5,5,0.8%,2019,13
+22,Houston Texans (HOU),1,1,0,1,0,0,0,1,2,2,0.8%,2019,1
+18,Houston Texans (HOU),1,0,1,0,0,0,0,1,2,2,0.8%,2019,7
+24,Houston Texans (HOU),1,0,0,0,0,0,0,1,2,2,0.8%,2019,12
+24,Houston Texans (HOU),1,1,0,0,0,0,0,1,2,2,0.8%,2019,14
+29,Houston Texans (HOU),0,0,0,0,0,0,0,1,0,0,0.8%,2019,8
+28,Houston Texans (HOU),0,0,0,0,0,0,0,1,-4,-4,0.8%,2019,11
+32,Houston Texans (HOU),0,0,0,0,0,0,0,1,-4,-4,0.8%,2019,17
+1,Indianapolis Colts (IND),5,3,0,0,0,0,2,1,30,30,52.9%,2019,16
+6,Indianapolis Colts (IND),1,3,1,1,1,0,0,1,11,11,52.9%,2019,14
+9,Indianapolis Colts (IND),4,0,1,1,0,0,0,1,10,10,52.9%,2019,5
+10,Indianapolis Colts (IND),2,1,0,0,0,0,0,1,10,10,52.9%,2019,11
+10,Indianapolis Colts (IND),6,0,2,2,0,0,0,1,10,10,52.9%,2019,13
+12,Indianapolis Colts (IND),3,2,0,0,0,1,0,1,9,9,52.9%,2019,7
+8,Indianapolis Colts (IND),1,1,1,2,0,1,0,1,8,8,52.9%,2019,9
+13,Indianapolis Colts (IND),3,1,1,1,0,0,0,1,8,8,52.9%,2019,10
+16,Indianapolis Colts (IND),4,1,1,1,0,0,0,1,7,7,52.9%,2019,1
+15,Indianapolis Colts (IND),3,0,0,1,0,0,0,1,7,7,52.9%,2019,8
+20,Indianapolis Colts (IND),4,0,0,2,0,0,0,1,5,5,52.9%,2019,2
+20,Indianapolis Colts (IND),1,1,0,1,0,0,0,1,4,4,52.9%,2019,12
+20,Indianapolis Colts (IND),3,1,0,1,0,0,0,1,4,4,52.9%,2019,17
+23,Indianapolis Colts (IND),1,0,1,0,0,0,0,1,3,3,52.9%,2019,4
+26,Indianapolis Colts (IND),0,1,0,0,0,0,0,1,2,2,52.9%,2019,3
+30,Indianapolis Colts (IND),0,0,0,0,0,0,0,1,-1,-1,52.9%,2019,15
+5,Jacksonville Jaguars (JAC),2,3,1,1,1,0,0,1,17,17,22.8%,2019,7
+3,Jacksonville Jaguars (JAC),9,0,1,2,0,0,0,1,15,15,22.8%,2019,3
+3,Jacksonville Jaguars (JAC),8,3,0,1,0,0,0,1,15,15,22.8%,2019,8
+4,Jacksonville Jaguars (JAC),3,0,2,2,1,0,0,1,14,14,22.8%,2019,17
+8,Jacksonville Jaguars (JAC),4,0,0,0,0,0,0,1,8,8,22.8%,2019,2
+13,Jacksonville Jaguars (JAC),3,0,0,1,0,0,0,1,7,7,22.8%,2019,6
+15,Jacksonville Jaguars (JAC),3,1,1,1,0,0,0,1,6,6,22.8%,2019,11
+15,Jacksonville Jaguars (JAC),4,0,1,1,0,0,0,1,6,6,22.8%,2019,13
+15,Jacksonville Jaguars (JAC),1,0,1,1,0,0,0,1,5,5,22.8%,2019,9
+15,Jacksonville Jaguars (JAC),4,0,0,0,0,0,0,1,5,5,22.8%,2019,15
+17,Jacksonville Jaguars (JAC),1,2,0,0,0,0,0,1,5,5,22.8%,2019,16
+20,Jacksonville Jaguars (JAC),3,0,0,1,0,0,0,1,4,4,22.8%,2019,5
+25,Jacksonville Jaguars (JAC),0,1,0,0,0,0,0,1,2,2,22.8%,2019,4
+25,Jacksonville Jaguars (JAC),1,0,2,2,0,0,0,1,1,1,22.8%,2019,12
+32,Jacksonville Jaguars (JAC),1,0,0,0,0,0,0,1,-3,-3,22.8%,2019,14
+32,Jacksonville Jaguars (JAC),0,0,0,0,0,0,0,1,-4,-4,22.8%,2019,1
+2,Kansas City Chiefs (KC),9,0,1,3,1,0,0,1,24,24,46.4%,2019,7
+2,Kansas City Chiefs (KC),2,2,1,0,1,0,0,1,22,22,46.4%,2019,13
+8,Kansas City Chiefs (KC),4,0,2,2,1,0,0,1,13,13,46.4%,2019,4
+7,Kansas City Chiefs (KC),3,2,0,0,0,0,1,1,13,13,46.4%,2019,17
+4,Kansas City Chiefs (KC),3,2,0,3,0,0,0,1,11,11,46.4%,2019,2
+8,Kansas City Chiefs (KC),2,4,0,1,0,0,0,1,11,11,46.4%,2019,11
+7,Kansas City Chiefs (KC),2,1,0,0,0,0,0,1,11,11,46.4%,2019,15
+7,Kansas City Chiefs (KC),3,0,0,0,0,0,0,1,10,10,46.4%,2019,16
+11,Kansas City Chiefs (KC),3,1,0,0,0,0,0,1,8,8,46.4%,2019,14
+19,Kansas City Chiefs (KC),1,1,1,1,0,0,0,1,5,5,46.4%,2019,1
+16,Kansas City Chiefs (KC),0,2,1,1,0,0,0,1,5,5,46.4%,2019,6
+18,Kansas City Chiefs (KC),4,0,1,1,0,0,0,1,5,5,46.4%,2019,10
+20,Kansas City Chiefs (KC),5,0,0,0,0,0,0,1,4,4,46.4%,2019,8
+22,Kansas City Chiefs (KC),0,1,0,0,0,0,0,1,3,3,46.4%,2019,5
+25,Kansas City Chiefs (KC),3,0,0,0,0,0,0,1,2,2,46.4%,2019,3
+25,Kansas City Chiefs (KC),1,0,0,0,0,0,0,1,1,1,46.4%,2019,9
+6,Las Vegas Raiders (LV),5,3,0,1,1,0,0,1,17,17,11.2%,2019,10
+6,Las Vegas Raiders (LV),5,1,1,1,0,0,0,1,13,13,11.2%,2019,11
+14,Las Vegas Raiders (LV),0,1,1,1,1,0,0,1,10,10,11.2%,2019,4
+13,Las Vegas Raiders (LV),4,2,0,0,0,0,0,1,8,8,11.2%,2019,5
+13,Las Vegas Raiders (LV),2,1,1,0,0,0,0,1,6,6,11.2%,2019,9
+18,Las Vegas Raiders (LV),2,0,1,2,0,0,0,1,5,5,11.2%,2019,17
+20,Las Vegas Raiders (LV),3,0,0,1,0,0,0,1,4,4,11.2%,2019,1
+25,Las Vegas Raiders (LV),2,0,1,1,0,0,0,1,3,3,11.2%,2019,2
+25,Las Vegas Raiders (LV),3,0,0,1,0,0,0,1,3,3,11.2%,2019,8
+23,Las Vegas Raiders (LV),2,0,0,0,0,0,0,1,3,3,11.2%,2019,15
+23,Las Vegas Raiders (LV),1,0,1,0,0,0,0,1,2,2,11.2%,2019,12
+23,Las Vegas Raiders (LV),1,0,0,0,0,0,0,1,2,2,11.2%,2019,16
+29,Las Vegas Raiders (LV),1,0,0,0,0,0,0,1,0,0,11.2%,2019,13
+32,Las Vegas Raiders (LV),0,0,0,0,0,0,0,1,-1,-1,11.2%,2019,3
+29,Las Vegas Raiders (LV),0,1,0,0,0,0,0,1,-2,-2,11.2%,2019,14
+27,Las Vegas Raiders (LV),1,0,0,0,0,0,0,1,-3,-3,11.2%,2019,7
+3,Los Angeles Chargers (LAC),3,1,1,1,0,0,1,1,14,14,42.7%,2019,5
+12,Los Angeles Chargers (LAC),5,1,0,2,0,0,0,1,11,11,42.7%,2019,4
+11,Los Angeles Chargers (LAC),4,1,1,0,0,0,0,1,9,9,42.7%,2019,8
+9,Los Angeles Chargers (LAC),0,2,0,0,0,0,0,1,8,8,42.7%,2019,2
+10,Los Angeles Chargers (LAC),3,0,0,0,0,0,0,1,7,7,42.7%,2019,9
+16,Los Angeles Chargers (LAC),2,0,0,0,0,0,0,1,6,6,42.7%,2019,14
+21,Los Angeles Chargers (LAC),2,0,1,0,0,0,0,1,4,4,42.7%,2019,3
+14,Los Angeles Chargers (LAC),2,1,0,1,0,0,0,1,4,4,42.7%,2019,7
+22,Los Angeles Chargers (LAC),0,1,0,0,0,0,0,1,3,3,42.7%,2019,6
+21,Los Angeles Chargers (LAC),3,0,0,0,0,0,0,1,3,3,42.7%,2019,10
+21,Los Angeles Chargers (LAC),1,1,0,1,0,0,0,1,3,3,42.7%,2019,11
+21,Los Angeles Chargers (LAC),3,0,0,0,0,0,0,1,3,3,42.7%,2019,16
+23,Los Angeles Chargers (LAC),2,0,0,0,0,0,0,1,2,2,42.7%,2019,1
+25,Los Angeles Chargers (LAC),0,1,0,0,0,0,0,1,2,2,42.7%,2019,13
+27,Los Angeles Chargers (LAC),0,1,0,0,0,0,0,1,1,1,42.7%,2019,15
+28,Los Angeles Chargers (LAC),0,1,0,0,0,0,0,1,1,1,42.7%,2019,17
+3,Los Angeles Rams (LAR),5,1,2,3,1,0,0,1,21,21,34.8%,2019,7
+3,Los Angeles Rams (LAR),3,0,2,2,1,1,0,1,19,19,34.8%,2019,10
+4,Los Angeles Rams (LAR),6,1,0,0,1,0,0,1,18,18,34.8%,2019,13
+3,Los Angeles Rams (LAR),5,1,0,0,0,0,0,1,14,14,34.8%,2019,14
+10,Los Angeles Rams (LAR),1,2,3,1,0,0,0,1,11,11,34.8%,2019,17
+11,Los Angeles Rams (LAR),3,1,2,2,0,0,0,1,9,9,34.8%,2019,1
+13,Los Angeles Rams (LAR),3,1,0,1,0,0,0,1,9,9,34.8%,2019,3
+9,Los Angeles Rams (LAR),5,0,0,0,0,0,0,1,9,9,34.8%,2019,8
+11,Los Angeles Rams (LAR),3,1,0,0,0,0,0,1,9,9,34.8%,2019,11
+9,Los Angeles Rams (LAR),6,2,0,1,0,0,0,1,9,9,34.8%,2019,16
+11,Los Angeles Rams (LAR),2,1,0,1,0,0,0,1,8,8,34.8%,2019,2
+12,Los Angeles Rams (LAR),2,1,1,1,0,0,0,1,7,7,34.8%,2019,6
+17,Los Angeles Rams (LAR),2,1,0,0,1,0,0,1,6,6,34.8%,2019,4
+25,Los Angeles Rams (LAR),1,0,1,1,0,0,0,1,2,2,34.8%,2019,5
+26,Los Angeles Rams (LAR),3,0,0,0,0,0,0,1,-1,-1,34.8%,2019,12
+32,Los Angeles Rams (LAR),0,0,0,0,0,0,0,1,-4,-4,34.8%,2019,15
+8,Miami Dolphins (MIA),1,3,0,1,0,0,0,1,11,11,24.9%,2019,10
+9,Miami Dolphins (MIA),1,1,1,1,1,0,0,1,11,11,24.9%,2019,17
+6,Miami Dolphins (MIA),3,1,0,0,0,1,0,1,8,8,24.9%,2019,9
+19,Miami Dolphins (MIA),2,1,0,1,0,0,0,1,4,4,24.9%,2019,8
+26,Miami Dolphins (MIA),2,0,1,1,0,0,0,1,3,3,24.9%,2019,2
+23,Miami Dolphins (MIA),2,1,0,1,0,0,0,1,3,3,24.9%,2019,13
+21,Miami Dolphins (MIA),1,1,0,1,0,0,0,1,3,3,24.9%,2019,14
+22,Miami Dolphins (MIA),1,3,0,0,0,0,0,1,3,3,24.9%,2019,15
+23,Miami Dolphins (MIA),1,1,0,0,0,0,0,1,2,2,24.9%,2019,3
+24,Miami Dolphins (MIA),0,0,0,2,0,0,1,1,2,2,24.9%,2019,11
+22,Miami Dolphins (MIA),4,0,1,1,0,0,0,1,2,2,24.9%,2019,16
+26,Miami Dolphins (MIA),0,0,0,0,0,0,0,1,1,1,24.9%,2019,6
+23,Miami Dolphins (MIA),2,0,0,0,0,0,0,1,1,1,24.9%,2019,7
+28,Miami Dolphins (MIA),1,0,0,0,0,0,0,1,0,0,24.9%,2019,4
+28,Miami Dolphins (MIA),1,1,0,0,0,0,0,1,-1,-1,24.9%,2019,12
+30,Miami Dolphins (MIA),1,0,0,0,0,0,0,1,-3,-3,24.9%,2019,1
+1,Minnesota Vikings (MIN),3,3,4,5,1,0,0,1,27,27,19.7%,2019,15
+4,Minnesota Vikings (MIN),4,2,1,1,0,0,0,1,16,16,19.7%,2019,1
+5,Minnesota Vikings (MIN),5,2,0,0,0,0,0,1,13,13,19.7%,2019,14
+6,Minnesota Vikings (MIN),4,1,0,0,0,1,0,1,12,12,19.7%,2019,5
+5,Minnesota Vikings (MIN),4,1,1,2,0,0,0,1,12,12,19.7%,2019,8
+11,Minnesota Vikings (MIN),2,2,1,1,0,0,0,1,9,9,19.7%,2019,6
+8,Minnesota Vikings (MIN),3,1,2,3,0,0,0,1,9,9,19.7%,2019,16
+12,Minnesota Vikings (MIN),2,1,1,1,1,0,0,1,8,8,19.7%,2019,13
+17,Minnesota Vikings (MIN),4,1,0,0,0,0,0,1,7,7,19.7%,2019,3
+9,Minnesota Vikings (MIN),5,0,1,2,0,0,0,1,7,7,19.7%,2019,9
+18,Minnesota Vikings (MIN),2,0,2,1,0,0,0,1,6,6,19.7%,2019,2
+17,Minnesota Vikings (MIN),4,0,1,2,0,0,0,1,6,6,19.7%,2019,17
+19,Minnesota Vikings (MIN),2,1,0,0,0,0,0,1,4,4,19.7%,2019,11
+17,Minnesota Vikings (MIN),2,1,0,0,0,0,0,1,3,3,19.7%,2019,7
+19,Minnesota Vikings (MIN),1,1,0,0,0,0,0,1,3,3,19.7%,2019,10
+24,Minnesota Vikings (MIN),1,0,0,0,0,0,0,1,2,2,19.7%,2019,4
+1,New England Patriots (NE),7,4,0,0,2,0,0,1,37,37,52.5%,2019,2
+1,New England Patriots (NE),1,3,1,1,1,0,1,1,27,27,52.5%,2019,6
+1,New England Patriots (NE),5,4,0,2,0,0,1,1,25,25,52.5%,2019,4
+1,New England Patriots (NE),1,4,2,1,0,1,0,1,25,25,52.5%,2019,7
+1,New England Patriots (NE),5,1,2,1,1,0,0,1,21,21,52.5%,2019,8
+2,New England Patriots (NE),0,4,1,0,1,0,0,1,20,20,52.5%,2019,15
+5,New England Patriots (NE),5,1,0,0,0,0,0,1,14,14,52.5%,2019,3
+5,New England Patriots (NE),6,1,1,2,0,0,0,1,14,14,52.5%,2019,5
+7,New England Patriots (NE),5,0,1,1,0,0,0,1,11,11,52.5%,2019,11
+10,New England Patriots (NE),1,1,0,1,0,0,0,1,10,10,52.5%,2019,1
+12,New England Patriots (NE),0,1,0,2,0,0,0,1,8,8,52.5%,2019,12
+13,New England Patriots (NE),1,1,1,2,0,0,0,1,7,7,52.5%,2019,14
+18,New England Patriots (NE),4,0,0,0,0,0,0,1,5,5,52.5%,2019,16
+17,New England Patriots (NE),1,0,2,1,0,0,0,1,4,4,52.5%,2019,9
+26,New England Patriots (NE),3,0,0,0,0,0,0,1,2,2,52.5%,2019,13
+23,New England Patriots (NE),2,0,0,0,0,0,0,1,2,2,52.5%,2019,17
+1,New Orleans Saints (NO),2,2,1,0,1,0,0,1,18,18,62.8%,2019,17
+2,New Orleans Saints (NO),2,4,0,0,1,0,0,1,17,17,62.8%,2019,11
+5,New Orleans Saints (NO),9,2,1,2,0,0,0,1,16,16,62.8%,2019,13
+4,New Orleans Saints (NO),0,0,1,1,1,0,1,1,14,14,62.8%,2019,3
+10,New Orleans Saints (NO),1,1,2,2,0,0,0,1,11,11,62.8%,2019,4
+6,New Orleans Saints (NO),2,1,0,0,0,0,0,1,11,11,62.8%,2019,6
+11,New Orleans Saints (NO),2,0,2,2,0,1,0,1,10,10,62.8%,2019,7
+12,New Orleans Saints (NO),4,0,0,0,0,0,0,1,8,8,62.8%,2019,8
+13,New Orleans Saints (NO),6,1,0,0,0,0,0,1,7,7,62.8%,2019,1
+15,New Orleans Saints (NO),6,0,0,1,0,0,0,1,6,6,62.8%,2019,5
+13,New Orleans Saints (NO),5,0,1,0,0,0,0,1,6,6,62.8%,2019,16
+21,New Orleans Saints (NO),3,0,1,1,0,0,0,1,5,5,62.8%,2019,2
+17,New Orleans Saints (NO),4,0,1,1,0,0,0,1,5,5,62.8%,2019,12
+18,New Orleans Saints (NO),1,0,0,0,0,0,0,1,5,5,62.8%,2019,15
+20,New Orleans Saints (NO),1,1,0,0,0,0,0,1,3,3,62.8%,2019,10
+28,New Orleans Saints (NO),3,1,0,0,0,0,0,1,1,1,62.8%,2019,14
+2,New York Giants (NYG),3,4,0,0,1,0,0,1,24,24,24.7%,2019,4
+5,New York Giants (NYG),3,1,1,1,1,0,0,1,13,13,24.7%,2019,6
+10,New York Giants (NYG),2,0,0,0,0,0,0,1,10,10,24.7%,2019,7
+13,New York Giants (NYG),4,1,1,1,0,0,0,1,8,8,24.7%,2019,8
+9,New York Giants (NYG),3,0,1,1,0,1,0,1,8,8,24.7%,2019,15
+18,New York Giants (NYG),4,1,0,0,0,0,0,1,7,7,24.7%,2019,3
+13,New York Giants (NYG),2,2,0,0,0,0,0,1,7,7,24.7%,2019,12
+19,New York Giants (NYG),3,0,1,1,0,0,0,1,5,5,24.7%,2019,14
+18,New York Giants (NYG),3,0,1,2,0,0,0,1,4,4,24.7%,2019,5
+21,New York Giants (NYG),0,1,1,1,0,0,0,1,3,3,24.7%,2019,9
+28,New York Giants (NYG),3,0,0,0,0,0,0,1,2,2,24.7%,2019,2
+24,New York Giants (NYG),2,0,0,0,0,0,0,1,1,1,24.7%,2019,10
+29,New York Giants (NYG),1,0,0,0,0,0,0,1,0,0,24.7%,2019,17
+32,New York Giants (NYG),0,0,0,1,0,0,0,1,-1,-1,24.7%,2019,13
+29,New York Giants (NYG),3,0,0,0,0,0,0,1,-1,-1,24.7%,2019,16
+31,New York Giants (NYG),0,0,0,0,0,0,0,1,-4,-4,24.7%,2019,1
+3,New York Jets (NYJ),1,2,2,1,1,1,0,1,18,18,19.1%,2019,1
+2,New York Jets (NYJ),1,1,1,0,1,0,0,1,18,18,19.1%,2019,12
+2,New York Jets (NYJ),1,1,1,0,2,0,0,1,16,16,19.1%,2019,3
+7,New York Jets (NYJ),6,0,2,3,1,0,0,1,16,16,19.1%,2019,10
+5,New York Jets (NYJ),1,2,1,1,0,0,0,1,14,14,19.1%,2019,17
+3,New York Jets (NYJ),4,2,0,0,0,0,0,1,12,12,19.1%,2019,16
+13,New York Jets (NYJ),6,1,0,0,0,0,0,1,9,9,19.1%,2019,11
+12,New York Jets (NYJ),4,0,0,0,0,1,0,1,6,6,19.1%,2019,9
+19,New York Jets (NYJ),3,1,0,0,0,0,0,1,5,5,19.1%,2019,2
+14,New York Jets (NYJ),1,0,0,0,0,0,1,1,5,5,19.1%,2019,15
+19,New York Jets (NYJ),1,0,1,1,0,0,0,1,4,4,19.1%,2019,5
+20,New York Jets (NYJ),2,1,0,1,0,0,0,1,4,4,19.1%,2019,14
+24,New York Jets (NYJ),2,0,1,1,0,0,0,1,3,3,19.1%,2019,8
+25,New York Jets (NYJ),1,0,0,0,0,0,0,1,1,1,19.1%,2019,6
+24,New York Jets (NYJ),0,1,0,0,0,0,0,1,1,1,19.1%,2019,7
+28,New York Jets (NYJ),1,0,0,0,0,0,0,1,1,1,19.1%,2019,13
+1,Philadelphia Eagles (PHI),10,2,1,2,2,0,0,1,35,35,57.2%,2019,5
+6,Philadelphia Eagles (PHI),4,0,1,3,0,0,0,1,12,12,57.2%,2019,8
+9,Philadelphia Eagles (PHI),6,1,1,1,0,0,0,1,11,11,57.2%,2019,12
+8,Philadelphia Eagles (PHI),1,0,1,1,1,0,0,1,9,9,57.2%,2019,15
+11,Philadelphia Eagles (PHI),4,1,1,2,0,0,0,1,9,9,57.2%,2019,17
+11,Philadelphia Eagles (PHI),2,0,1,1,0,0,0,1,8,8,57.2%,2019,16
+13,Philadelphia Eagles (PHI),1,3,0,1,0,0,0,1,7,7,57.2%,2019,2
+11,Philadelphia Eagles (PHI),3,0,1,0,0,0,0,1,6,6,57.2%,2019,9
+19,Philadelphia Eagles (PHI),1,1,1,1,0,0,0,1,5,5,57.2%,2019,4
+23,Philadelphia Eagles (PHI),2,0,0,1,0,0,0,1,3,3,57.2%,2019,14
+24,Philadelphia Eagles (PHI),0,0,0,0,0,0,0,1,2,2,57.2%,2019,3
+22,Philadelphia Eagles (PHI),1,0,0,0,0,0,0,1,2,2,57.2%,2019,11
+24,Philadelphia Eagles (PHI),1,0,0,0,0,0,0,1,1,1,57.2%,2019,1
+24,Philadelphia Eagles (PHI),1,1,1,1,0,0,0,1,1,1,57.2%,2019,6
+22,Philadelphia Eagles (PHI),3,1,0,1,0,0,0,1,1,1,57.2%,2019,7
+27,Philadelphia Eagles (PHI),3,1,0,0,0,0,0,1,1,1,57.2%,2019,13
+1,Pittsburgh Steelers (PIT),4,3,1,3,1,0,0,1,25,25,50.2%,2019,10
+3,Pittsburgh Steelers (PIT),8,1,1,2,0,0,0,1,19,19,50.2%,2019,4
+2,Pittsburgh Steelers (PIT),5,1,2,1,1,0,0,1,19,19,50.2%,2019,9
+1,Pittsburgh Steelers (PIT),5,3,0,0,0,0,1,1,18,18,50.2%,2019,14
+4,Pittsburgh Steelers (PIT),1,2,1,0,1,0,0,1,14,14,50.2%,2019,6
+4,Pittsburgh Steelers (PIT),4,2,2,3,0,0,0,1,13,13,50.2%,2019,8
+7,Pittsburgh Steelers (PIT),5,1,1,1,0,0,0,1,13,13,50.2%,2019,13
+7,Pittsburgh Steelers (PIT),4,0,2,3,0,0,0,1,12,12,50.2%,2019,12
+10,Pittsburgh Steelers (PIT),1,2,3,1,0,0,0,1,11,11,50.2%,2019,3
+7,Pittsburgh Steelers (PIT),5,3,0,0,0,0,0,1,11,11,50.2%,2019,5
+14,Pittsburgh Steelers (PIT),4,0,2,1,0,0,0,1,7,7,50.2%,2019,2
+15,Pittsburgh Steelers (PIT),3,1,1,1,0,0,0,1,7,7,50.2%,2019,17
+12,Pittsburgh Steelers (PIT),1,1,1,2,0,0,0,1,6,6,50.2%,2019,15
+16,Pittsburgh Steelers (PIT),2,0,1,1,0,0,0,1,5,5,50.2%,2019,16
+25,Pittsburgh Steelers (PIT),1,0,0,0,0,0,0,1,1,1,50.2%,2019,11
+26,Pittsburgh Steelers (PIT),1,0,0,0,0,0,0,1,0,0,50.2%,2019,1
+1,San Francisco 49ers (SF),3,3,1,2,2,0,0,1,27,27,96.0%,2019,1
+2,San Francisco 49ers (SF),4,2,2,2,0,0,0,1,19,19,96.0%,2019,5
+4,San Francisco 49ers (SF),5,1,3,5,1,0,0,1,19,19,96.0%,2019,10
+2,San Francisco 49ers (SF),7,3,0,0,0,0,0,1,17,17,96.0%,2019,8
+7,San Francisco 49ers (SF),3,0,1,1,0,0,0,1,15,15,96.0%,2019,7
+5,San Francisco 49ers (SF),4,0,2,2,1,0,0,1,14,14,96.0%,2019,11
+8,San Francisco 49ers (SF),5,0,1,1,0,0,0,1,11,11,96.0%,2019,12
+7,San Francisco 49ers (SF),4,0,1,1,0,0,0,1,10,10,96.0%,2019,6
+12,San Francisco 49ers (SF),4,1,0,0,0,0,0,1,7,7,96.0%,2019,2
+16,San Francisco 49ers (SF),2,1,1,2,0,0,0,1,7,7,96.0%,2019,3
+12,San Francisco 49ers (SF),0,1,0,1,1,0,0,1,7,7,96.0%,2019,16
+22,San Francisco 49ers (SF),1,0,1,1,0,0,0,1,4,4,96.0%,2019,13
+21,San Francisco 49ers (SF),2,0,1,0,0,0,0,1,4,4,96.0%,2019,15
+19,San Francisco 49ers (SF),3,0,0,0,0,0,0,1,3,3,96.0%,2019,9
+26,San Francisco 49ers (SF),1,0,0,1,0,0,0,1,1,1,96.0%,2019,17
+30,San Francisco 49ers (SF),0,0,1,2,0,0,0,1,-2,-2,96.0%,2019,14
+5,Seattle Seahawks (SEA),5,1,2,2,1,0,0,1,18,18,15.0%,2019,10
+3,Seattle Seahawks (SEA),3,2,3,3,0,0,0,1,17,17,15.0%,2019,12
+5,Seattle Seahawks (SEA),4,1,0,0,1,0,0,1,16,16,15.0%,2019,4
+7,Seattle Seahawks (SEA),5,0,3,3,0,0,0,1,12,12,15.0%,2019,1
+7,Seattle Seahawks (SEA),0,2,0,0,1,0,0,1,11,11,15.0%,2019,14
+9,Seattle Seahawks (SEA),0,3,1,1,0,0,0,1,9,9,15.0%,2019,6
+10,Seattle Seahawks (SEA),2,1,2,2,0,0,0,1,9,9,15.0%,2019,8
+11,Seattle Seahawks (SEA),1,3,0,1,0,0,0,1,7,7,15.0%,2019,15
+17,Seattle Seahawks (SEA),0,1,2,2,0,0,0,1,6,6,15.0%,2019,13
+19,Seattle Seahawks (SEA),2,0,0,0,0,0,0,1,4,4,15.0%,2019,16
+24,Seattle Seahawks (SEA),1,1,0,0,0,0,0,1,3,3,15.0%,2019,2
+23,Seattle Seahawks (SEA),0,1,1,1,0,0,0,1,3,3,15.0%,2019,5
+22,Seattle Seahawks (SEA),2,0,1,1,0,0,0,1,3,3,15.0%,2019,9
+22,Seattle Seahawks (SEA),0,0,1,0,0,0,0,1,2,2,15.0%,2019,3
+20,Seattle Seahawks (SEA),1,0,0,1,0,0,0,1,2,2,15.0%,2019,7
+24,Seattle Seahawks (SEA),2,0,0,1,0,0,0,1,2,2,15.0%,2019,17
+1,Tampa Bay Buccaneers (TB),5,2,2,3,1,0,0,1,23,23,84.2%,2019,13
+4,Tampa Bay Buccaneers (TB),6,1,1,2,1,0,0,1,16,16,84.2%,2019,12
+6,Tampa Bay Buccaneers (TB),2,3,1,1,1,0,0,1,15,15,84.2%,2019,4
+4,Tampa Bay Buccaneers (TB),2,2,1,1,1,0,0,1,15,15,84.2%,2019,15
+6,Tampa Bay Buccaneers (TB),6,0,1,1,1,0,0,1,14,14,84.2%,2019,17
+8,Tampa Bay Buccaneers (TB),1,1,1,0,1,0,0,1,12,12,84.2%,2019,1
+6,Tampa Bay Buccaneers (TB),5,1,1,2,0,0,0,1,10,10,84.2%,2019,16
+15,Tampa Bay Buccaneers (TB),5,0,2,2,0,0,0,1,8,8,84.2%,2019,3
+15,Tampa Bay Buccaneers (TB),3,0,1,1,0,0,0,1,6,6,84.2%,2019,2
+16,Tampa Bay Buccaneers (TB),2,1,1,1,0,0,0,1,6,6,84.2%,2019,10
+18,Tampa Bay Buccaneers (TB),3,0,1,2,0,0,0,1,5,5,84.2%,2019,8
+26,Tampa Bay Buccaneers (TB),1,0,1,1,0,0,0,1,2,2,84.2%,2019,14
+26,Tampa Bay Buccaneers (TB),0,1,0,0,0,0,0,1,1,1,84.2%,2019,5
+26,Tampa Bay Buccaneers (TB),3,0,1,2,0,0,0,1,1,1,84.2%,2019,9
+27,Tampa Bay Buccaneers (TB),2,0,1,0,0,0,0,1,0,0,84.2%,2019,6
+26,Tampa Bay Buccaneers (TB),1,0,0,1,0,0,0,1,0,0,84.2%,2019,11
+2,Tennessee Titans (TEN),5,3,0,0,1,1,0,1,23,23,26.8%,2019,1
+3,Tennessee Titans (TEN),3,2,1,1,0,0,1,1,20,20,26.8%,2019,13
+9,Tennessee Titans (TEN),5,0,1,1,0,0,0,1,11,11,26.8%,2019,4
+7,Tennessee Titans (TEN),3,2,2,2,0,0,0,1,11,11,26.8%,2019,8
+9,Tennessee Titans (TEN),2,0,1,1,1,0,0,1,11,11,26.8%,2019,10
+9,Tennessee Titans (TEN),2,0,1,1,1,0,0,1,10,10,26.8%,2019,14
+10,Tennessee Titans (TEN),3,1,1,0,0,0,0,1,8,8,26.8%,2019,2
+14,Tennessee Titans (TEN),4,1,0,0,0,0,0,1,7,7,26.8%,2019,5
+16,Tennessee Titans (TEN),4,1,0,0,0,0,0,1,7,7,26.8%,2019,17
+14,Tennessee Titans (TEN),3,1,0,0,0,0,0,1,6,6,26.8%,2019,9
+14,Tennessee Titans (TEN),3,0,1,0,0,0,0,1,6,6,26.8%,2019,12
+17,Tennessee Titans (TEN),1,2,0,1,0,0,0,1,5,5,26.8%,2019,15
+20,Tennessee Titans (TEN),1,1,0,1,0,0,0,1,4,4,26.8%,2019,6
+15,Tennessee Titans (TEN),1,0,1,2,0,0,0,1,4,4,26.8%,2019,7
+28,Tennessee Titans (TEN),0,0,0,0,0,0,0,1,1,1,26.8%,2019,3
+31,Tennessee Titans (TEN),3,0,0,0,0,0,0,1,-1,-1,26.8%,2019,16
+1,Washington Commanders (WAS),6,3,1,2,0,0,1,1,21,21,51.3%,2019,12
+8,Washington Commanders (WAS),7,1,1,1,0,0,0,1,11,11,51.3%,2019,13
+8,Washington Commanders (WAS),5,2,0,1,0,0,0,1,10,10,51.3%,2019,6
+16,Washington Commanders (WAS),0,2,2,2,0,0,0,1,9,9,51.3%,2019,4
+13,Washington Commanders (WAS),2,1,0,0,0,0,0,1,8,8,51.3%,2019,7
+14,Washington Commanders (WAS),4,0,1,1,0,0,0,1,7,7,51.3%,2019,14
+16,Washington Commanders (WAS),3,0,1,1,0,0,0,1,6,6,51.3%,2019,8
+20,Washington Commanders (WAS),3,1,0,0,0,0,0,1,5,5,51.3%,2019,3
+17,Washington Commanders (WAS),4,1,0,0,0,0,0,1,5,5,51.3%,2019,5
+17,Washington Commanders (WAS),2,1,1,1,0,0,0,1,5,5,51.3%,2019,11
+26,Washington Commanders (WAS),2,0,1,3,0,0,0,1,3,3,51.3%,2019,15
+29,Washington Commanders (WAS),1,1,0,0,0,0,0,1,2,2,51.3%,2019,2
+23,Washington Commanders (WAS),2,0,0,1,0,0,0,1,2,2,51.3%,2019,9
+27,Washington Commanders (WAS),3,0,1,1,0,0,0,1,1,1,51.3%,2019,17
+25,Washington Commanders (WAS),1,0,0,0,0,0,0,1,0,0,51.3%,2019,1
+32,Washington Commanders (WAS),1,0,0,1,0,0,0,1,-1,-1,51.3%,2019,16

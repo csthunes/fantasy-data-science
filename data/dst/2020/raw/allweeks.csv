@@ -1,0 +1,515 @@
+Rank,Player,SACK,INT,FR,FF,DefTD,SFTY,SpcTD,G,FPTS,FPTS/G,ROST,Season,Week
+4,Arizona Cardinals (ARI),8,0,3,4,0,0,0,1,18,18,9.3%,2020,14
+3,Arizona Cardinals (ARI),3,2,2,2,0,0,0,1,15,15,9.3%,2020,6
+3,Arizona Cardinals (ARI),6,0,0,3,0,1,0,1,10,10,9.3%,2020,15
+5,Arizona Cardinals (ARI),2,1,1,1,0,0,0,1,10,10,9.3%,2020,17
+7,Arizona Cardinals (ARI),4,0,2,1,0,0,0,1,9,9,9.3%,2020,2
+18,Arizona Cardinals (ARI),3,2,0,0,0,0,0,1,8,8,9.3%,2020,12
+12,Arizona Cardinals (ARI),3,0,0,0,0,0,0,1,7,7,9.3%,2020,5
+9,Arizona Cardinals (ARI),2,3,0,0,0,0,0,1,7,7,9.3%,2020,7
+12,Arizona Cardinals (ARI),3,0,0,0,0,0,0,1,6,6,9.3%,2020,1
+15,Arizona Cardinals (ARI),3,0,1,1,0,0,0,1,6,6,9.3%,2020,16
+20,Arizona Cardinals (ARI),4,0,0,0,0,0,0,1,4,4,9.3%,2020,3
+21,Arizona Cardinals (ARI),0,2,0,0,0,0,0,1,3,3,9.3%,2020,10
+23,Arizona Cardinals (ARI),3,0,0,0,0,0,0,1,2,2,9.3%,2020,9
+24,Arizona Cardinals (ARI),3,0,0,0,0,0,0,1,2,2,9.3%,2020,11
+26,Arizona Cardinals (ARI),1,0,1,0,0,0,0,1,2,2,9.3%,2020,13
+26,Arizona Cardinals (ARI),0,1,0,0,0,0,0,1,1,1,9.3%,2020,4
+1,Atlanta Falcons (ATL),5,1,4,4,1,0,0,1,28,28,2.7%,2020,12
+9,Atlanta Falcons (ATL),1,3,0,0,0,0,0,1,7,7,2.7%,2020,6
+11,Atlanta Falcons (ATL),3,1,0,0,0,0,0,1,6,6,2.7%,2020,8
+17,Atlanta Falcons (ATL),2,2,0,2,0,0,0,1,5,5,2.7%,2020,3
+12,Atlanta Falcons (ATL),3,0,1,1,0,0,0,1,5,5,2.7%,2020,11
+19,Atlanta Falcons (ATL),0,2,0,0,0,0,0,1,5,5,2.7%,2020,16
+17,Atlanta Falcons (ATL),2,0,1,2,0,0,0,1,4,4,2.7%,2020,13
+20,Atlanta Falcons (ATL),1,1,0,2,0,0,0,1,4,4,2.7%,2020,14
+21,Atlanta Falcons (ATL),1,0,3,4,0,0,0,1,3,3,2.7%,2020,2
+19,Atlanta Falcons (ATL),1,1,0,1,0,0,0,1,3,3,2.7%,2020,9
+23,Atlanta Falcons (ATL),2,0,0,0,0,0,0,1,2,2,2.7%,2020,7
+24,Atlanta Falcons (ATL),3,0,0,1,0,0,0,1,2,2,2.7%,2020,15
+27,Atlanta Falcons (ATL),1,0,0,0,0,0,0,1,0,0,2.7%,2020,4
+24,Atlanta Falcons (ATL),0,0,0,0,0,0,0,1,0,0,2.7%,2020,5
+31,Atlanta Falcons (ATL),3,0,0,0,0,0,0,1,-1,-1,2.7%,2020,1
+28,Atlanta Falcons (ATL),1,1,0,0,0,0,0,1,-1,-1,2.7%,2020,17
+1,Baltimore Ravens (BAL),7,1,2,3,1,0,0,1,26,26,90.6%,2020,5
+3,Baltimore Ravens (BAL),2,1,2,3,0,0,0,1,15,15,90.6%,2020,1
+1,Baltimore Ravens (BAL),4,1,1,1,1,0,0,1,15,15,90.6%,2020,2
+2,Baltimore Ravens (BAL),0,1,1,1,1,0,0,1,14,14,90.6%,2020,9
+4,Baltimore Ravens (BAL),0,2,0,0,0,0,0,1,11,11,90.6%,2020,17
+4,Baltimore Ravens (BAL),5,0,1,1,0,1,0,1,10,10,90.6%,2020,15
+4,Baltimore Ravens (BAL),6,0,0,0,0,0,0,1,10,10,90.6%,2020,16
+17,Baltimore Ravens (BAL),0,1,1,2,0,0,0,1,8,8,90.6%,2020,12
+13,Baltimore Ravens (BAL),0,0,1,1,0,0,1,1,7,7,90.6%,2020,3
+10,Baltimore Ravens (BAL),6,0,1,3,0,0,0,1,7,7,90.6%,2020,6
+10,Baltimore Ravens (BAL),3,0,1,1,0,0,0,1,6,6,90.6%,2020,4
+18,Baltimore Ravens (BAL),2,0,1,2,0,0,0,1,4,4,90.6%,2020,8
+19,Baltimore Ravens (BAL),1,1,0,0,0,0,0,1,4,4,90.6%,2020,13
+23,Baltimore Ravens (BAL),2,1,0,1,0,0,0,1,3,3,90.6%,2020,11
+24,Baltimore Ravens (BAL),1,0,0,0,0,0,0,1,1,1,90.6%,2020,10
+28,Baltimore Ravens (BAL),0,1,0,3,0,1,0,1,0,0,90.6%,2020,14
+1,Buffalo Bills (BUF),1,3,1,1,1,0,1,1,21,21,96.0%,2020,17
+5,Buffalo Bills (BUF),6,2,0,1,0,0,0,1,14,14,96.0%,2020,7
+5,Buffalo Bills (BUF),5,2,2,2,0,0,0,1,12,12,96.0%,2020,9
+7,Buffalo Bills (BUF),1,2,0,1,1,0,0,1,12,12,96.0%,2020,14
+2,Buffalo Bills (BUF),3,0,1,1,1,0,0,1,12,12,96.0%,2020,15
+6,Buffalo Bills (BUF),3,1,1,1,0,0,0,1,8,8,96.0%,2020,1
+11,Buffalo Bills (BUF),3,0,0,0,0,0,0,1,7,7,96.0%,2020,16
+9,Buffalo Bills (BUF),2,0,2,2,0,0,0,1,6,6,96.0%,2020,4
+13,Buffalo Bills (BUF),3,1,1,1,0,0,0,1,6,6,96.0%,2020,10
+19,Buffalo Bills (BUF),3,1,0,1,0,0,0,1,6,6,96.0%,2020,12
+16,Buffalo Bills (BUF),2,1,1,0,0,0,0,1,5,5,96.0%,2020,3
+16,Buffalo Bills (BUF),2,0,1,1,0,0,0,1,4,4,96.0%,2020,8
+18,Buffalo Bills (BUF),0,2,0,0,0,0,0,1,4,4,96.0%,2020,13
+19,Buffalo Bills (BUF),1,0,1,1,0,0,0,1,3,3,96.0%,2020,6
+26,Buffalo Bills (BUF),3,0,0,1,0,0,0,1,2,2,96.0%,2020,2
+28,Buffalo Bills (BUF),0,0,0,0,0,0,0,1,-4,-4,96.0%,2020,5
+1,Carolina Panthers (CAR),3,2,2,1,1,0,0,1,21,21,7.6%,2020,16
+2,Carolina Panthers (CAR),2,0,3,2,2,0,0,1,19,19,7.6%,2020,12
+3,Carolina Panthers (CAR),5,0,1,0,0,0,0,1,17,17,7.6%,2020,11
+8,Carolina Panthers (CAR),2,1,3,2,0,0,0,1,11,11,7.6%,2020,3
+16,Carolina Panthers (CAR),2,1,0,1,0,0,0,1,5,5,7.6%,2020,5
+16,Carolina Panthers (CAR),5,0,0,0,0,0,0,1,5,5,7.6%,2020,15
+15,Carolina Panthers (CAR),2,1,0,0,0,0,0,1,4,4,7.6%,2020,8
+24,Carolina Panthers (CAR),0,1,1,0,0,0,0,1,3,3,7.6%,2020,2
+22,Carolina Panthers (CAR),1,0,1,1,0,0,0,1,3,3,7.6%,2020,4
+19,Carolina Panthers (CAR),1,0,1,1,0,0,0,1,3,3,7.6%,2020,7
+18,Carolina Panthers (CAR),2,0,1,1,0,0,0,1,3,3,7.6%,2020,9
+20,Carolina Panthers (CAR),0,1,0,0,0,0,0,1,2,2,7.6%,2020,6
+25,Carolina Panthers (CAR),1,0,1,1,0,0,0,1,2,2,7.6%,2020,14
+23,Carolina Panthers (CAR),1,0,1,1,0,0,0,1,1,1,7.6%,2020,10
+23,Carolina Panthers (CAR),2,0,0,1,0,0,0,1,1,1,7.6%,2020,17
+30,Carolina Panthers (CAR),0,0,0,1,0,0,0,1,-1,-1,7.6%,2020,1
+5,Chicago Bears (CHI),7,0,2,1,0,1,0,1,17,17,2.2%,2020,14
+5,Chicago Bears (CHI),4,1,1,1,0,0,0,1,12,12,2.2%,2020,2
+4,Chicago Bears (CHI),1,1,1,2,0,0,1,1,12,12,2.2%,2020,10
+7,Chicago Bears (CHI),4,2,1,1,0,0,0,1,11,11,2.2%,2020,6
+6,Chicago Bears (CHI),1,0,1,2,1,0,0,1,11,11,2.2%,2020,7
+15,Chicago Bears (CHI),3,0,1,1,0,0,0,1,6,6,2.2%,2020,5
+17,Chicago Bears (CHI),1,2,0,0,0,0,0,1,6,6,2.2%,2020,16
+15,Chicago Bears (CHI),3,1,0,1,0,0,0,1,5,5,2.2%,2020,15
+21,Chicago Bears (CHI),2,1,0,1,0,0,0,1,4,4,2.2%,2020,3
+15,Chicago Bears (CHI),3,0,0,0,0,0,0,1,4,4,2.2%,2020,9
+23,Chicago Bears (CHI),1,1,0,0,0,0,0,1,3,3,2.2%,2020,1
+24,Chicago Bears (CHI),2,1,0,0,0,0,0,1,3,3,2.2%,2020,13
+25,Chicago Bears (CHI),1,0,0,0,0,0,0,1,2,2,2.2%,2020,4
+23,Chicago Bears (CHI),1,0,0,3,0,0,0,1,1,1,2.2%,2020,8
+31,Chicago Bears (CHI),1,0,1,0,0,0,0,1,-1,-1,2.2%,2020,17
+32,Chicago Bears (CHI),0,0,0,0,0,0,0,1,-4,-4,2.2%,2020,12
+13,Cincinnati Bengals (CIN),0,0,1,1,0,0,1,1,9,9,33.1%,2020,12
+9,Cincinnati Bengals (CIN),1,1,2,2,0,0,0,1,8,8,33.1%,2020,15
+10,Cincinnati Bengals (CIN),3,2,0,1,0,0,0,1,7,7,33.1%,2020,3
+13,Cincinnati Bengals (CIN),3,1,0,0,0,0,0,1,5,5,33.1%,2020,4
+17,Cincinnati Bengals (CIN),2,1,0,1,0,0,0,1,5,5,33.1%,2020,11
+16,Cincinnati Bengals (CIN),1,1,1,0,0,0,0,1,4,4,33.1%,2020,6
+14,Cincinnati Bengals (CIN),1,1,0,0,0,0,0,1,4,4,33.1%,2020,8
+22,Cincinnati Bengals (CIN),2,0,0,0,0,0,0,1,3,3,33.1%,2020,1
+19,Cincinnati Bengals (CIN),1,1,0,0,0,0,0,1,3,3,33.1%,2020,5
+23,Cincinnati Bengals (CIN),0,0,1,1,0,0,0,1,3,3,33.1%,2020,13
+24,Cincinnati Bengals (CIN),2,0,0,0,0,0,0,1,2,2,33.1%,2020,14
+23,Cincinnati Bengals (CIN),1,0,1,4,0,0,0,1,2,2,33.1%,2020,16
+30,Cincinnati Bengals (CIN),0,1,0,0,0,0,0,1,-2,-2,33.1%,2020,2
+26,Cincinnati Bengals (CIN),0,1,0,0,0,0,0,1,-2,-2,33.1%,2020,7
+32,Cincinnati Bengals (CIN),0,1,0,0,0,0,0,1,-2,-2,33.1%,2020,17
+28,Cincinnati Bengals (CIN),0,0,0,0,0,0,0,1,-4,-4,33.1%,2020,10
+1,Cleveland Browns (CLE),5,2,1,2,1,1,0,1,20,20,42.7%,2020,11
+4,Cleveland Browns (CLE),3,3,2,3,0,0,0,1,14,14,42.7%,2020,3
+2,Cleveland Browns (CLE),1,2,0,0,1,1,0,1,13,13,42.7%,2020,5
+8,Cleveland Browns (CLE),1,0,0,0,0,0,0,1,8,8,42.7%,2020,15
+10,Cleveland Browns (CLE),4,1,1,1,0,0,0,1,7,7,42.7%,2020,7
+12,Cleveland Browns (CLE),2,0,0,0,0,0,0,1,6,6,42.7%,2020,10
+16,Cleveland Browns (CLE),2,0,0,0,0,0,0,1,6,6,42.7%,2020,16
+11,Cleveland Browns (CLE),3,1,2,2,0,0,0,1,5,5,42.7%,2020,4
+14,Cleveland Browns (CLE),3,1,2,3,0,0,0,1,5,5,42.7%,2020,13
+18,Cleveland Browns (CLE),3,0,1,1,0,0,0,1,4,4,42.7%,2020,2
+19,Cleveland Browns (CLE),2,0,0,1,0,0,0,1,3,3,42.7%,2020,8
+19,Cleveland Browns (CLE),1,1,0,0,0,0,0,1,3,3,42.7%,2020,17
+23,Cleveland Browns (CLE),4,0,0,1,0,0,0,1,2,2,42.7%,2020,14
+23,Cleveland Browns (CLE),2,0,0,0,0,0,0,1,1,1,42.7%,2020,6
+28,Cleveland Browns (CLE),2,0,1,1,0,0,0,1,0,0,42.7%,2020,1
+28,Cleveland Browns (CLE),0,0,0,1,0,0,0,1,0,0,42.7%,2020,12
+3,Dallas Cowboys (DAL),2,0,3,2,1,0,0,1,18,18,90.0%,2020,14
+1,Dallas Cowboys (DAL),2,2,2,1,0,0,1,1,15,15,90.0%,2020,15
+5,Dallas Cowboys (DAL),4,2,2,3,0,0,0,1,13,13,90.0%,2020,8
+5,Dallas Cowboys (DAL),3,2,1,3,0,0,0,1,10,10,90.0%,2020,16
+8,Dallas Cowboys (DAL),2,0,1,1,1,0,0,1,9,9,90.0%,2020,5
+13,Dallas Cowboys (DAL),2,1,1,0,0,0,0,1,6,6,90.0%,2020,17
+16,Dallas Cowboys (DAL),2,0,2,2,0,0,0,1,5,5,90.0%,2020,11
+16,Dallas Cowboys (DAL),1,1,0,0,0,0,0,1,4,4,90.0%,2020,1
+22,Dallas Cowboys (DAL),2,0,0,0,0,0,0,1,2,2,90.0%,2020,7
+24,Dallas Cowboys (DAL),0,0,0,0,0,0,0,1,2,2,90.0%,2020,9
+27,Dallas Cowboys (DAL),3,1,0,0,0,0,0,1,1,1,90.0%,2020,12
+28,Dallas Cowboys (DAL),0,1,0,0,0,0,0,1,1,1,90.0%,2020,13
+30,Dallas Cowboys (DAL),4,0,0,1,0,0,0,1,0,0,90.0%,2020,3
+32,Dallas Cowboys (DAL),2,0,0,0,0,0,0,1,-2,-2,90.0%,2020,4
+32,Dallas Cowboys (DAL),1,0,0,0,0,0,0,1,-3,-3,90.0%,2020,2
+28,Dallas Cowboys (DAL),1,0,0,0,0,0,0,1,-3,-3,90.0%,2020,6
+5,Denver Broncos (DEN),4,2,1,3,0,0,0,1,14,14,32.3%,2020,6
+6,Denver Broncos (DEN),6,1,0,0,0,0,0,1,12,12,32.3%,2020,11
+11,Denver Broncos (DEN),4,0,0,0,0,0,1,1,10,10,32.3%,2020,14
+6,Denver Broncos (DEN),3,2,2,2,0,0,0,1,10,10,32.3%,2020,17
+6,Denver Broncos (DEN),6,0,0,0,0,0,0,1,6,6,32.3%,2020,4
+13,Denver Broncos (DEN),1,1,1,1,0,0,0,1,5,5,32.3%,2020,2
+12,Denver Broncos (DEN),2,2,0,0,0,0,0,1,5,5,32.3%,2020,8
+15,Denver Broncos (DEN),1,0,0,0,0,0,0,1,4,4,32.3%,2020,1
+23,Denver Broncos (DEN),3,1,0,2,0,0,0,1,4,4,32.3%,2020,12
+25,Denver Broncos (DEN),2,0,0,0,0,0,0,1,3,3,32.3%,2020,3
+17,Denver Broncos (DEN),2,1,0,0,0,0,0,1,3,3,32.3%,2020,9
+22,Denver Broncos (DEN),2,0,0,1,0,0,0,1,3,3,32.3%,2020,16
+21,Denver Broncos (DEN),4,0,1,1,0,0,0,1,2,2,32.3%,2020,7
+27,Denver Broncos (DEN),1,0,0,0,0,0,0,1,1,1,32.3%,2020,13
+31,Denver Broncos (DEN),1,0,1,1,0,0,0,1,-1,-1,32.3%,2020,15
+27,Denver Broncos (DEN),0,0,0,0,0,0,0,1,-4,-4,32.3%,2020,10
+12,Detroit Lions (DET),1,3,0,0,0,0,0,1,7,7,4.0%,2020,3
+12,Detroit Lions (DET),1,1,1,2,0,0,0,1,6,6,4.0%,2020,6
+11,Detroit Lions (DET),1,2,0,1,0,0,0,1,6,6,4.0%,2020,11
+16,Detroit Lions (DET),2,0,1,1,0,0,0,1,5,5,4.0%,2020,13
+18,Detroit Lions (DET),2,0,1,2,0,0,0,1,4,4,4.0%,2020,7
+12,Detroit Lions (DET),1,0,0,0,0,0,0,1,4,4,4.0%,2020,9
+19,Detroit Lions (DET),2,0,1,2,0,0,0,1,4,4,4.0%,2020,10
+20,Detroit Lions (DET),2,0,0,1,0,0,1,1,4,4,4.0%,2020,16
+25,Detroit Lions (DET),1,0,0,1,0,0,0,1,1,1,4.0%,2020,1
+30,Detroit Lions (DET),2,1,0,1,0,0,0,1,0,0,4.0%,2020,4
+25,Detroit Lions (DET),2,0,0,1,0,0,0,1,0,0,4.0%,2020,8
+29,Detroit Lions (DET),2,0,1,1,0,0,0,1,0,0,4.0%,2020,12
+31,Detroit Lions (DET),0,0,0,0,0,0,0,1,-1,-1,4.0%,2020,14
+29,Detroit Lions (DET),1,0,0,0,0,1,0,1,-1,-1,4.0%,2020,15
+30,Detroit Lions (DET),3,0,0,2,0,0,0,1,-1,-1,4.0%,2020,17
+31,Detroit Lions (DET),1,0,0,0,0,0,0,1,-3,-3,4.0%,2020,2
+6,Green Bay Packers (GB),3,2,1,1,1,0,0,1,15,15,67.2%,2020,12
+6,Green Bay Packers (GB),4,1,0,0,1,0,0,1,12,12,67.2%,2020,2
+8,Green Bay Packers (GB),7,1,0,0,0,0,0,1,10,10,67.2%,2020,13
+13,Green Bay Packers (GB),2,2,0,1,0,0,0,1,7,7,67.2%,2020,16
+11,Green Bay Packers (GB),3,0,1,2,0,0,0,1,6,6,67.2%,2020,7
+9,Green Bay Packers (GB),1,1,1,1,0,0,0,1,6,6,67.2%,2020,9
+10,Green Bay Packers (GB),3,1,0,0,0,0,0,1,6,6,67.2%,2020,10
+12,Green Bay Packers (GB),3,0,1,2,0,0,0,1,6,6,67.2%,2020,15
+12,Green Bay Packers (GB),1,1,1,1,0,0,0,1,6,6,67.2%,2020,17
+13,Green Bay Packers (GB),2,1,0,0,0,1,0,1,5,5,67.2%,2020,1
+15,Green Bay Packers (GB),4,0,0,0,0,0,0,1,5,5,67.2%,2020,4
+20,Green Bay Packers (GB),1,1,1,1,0,0,0,1,4,4,67.2%,2020,11
+19,Green Bay Packers (GB),4,0,0,0,0,0,0,1,4,4,67.2%,2020,14
+24,Green Bay Packers (GB),2,0,1,2,0,0,0,1,3,3,67.2%,2020,3
+24,Green Bay Packers (GB),1,0,0,0,0,0,0,1,0,0,67.2%,2020,8
+26,Green Bay Packers (GB),0,0,0,0,0,0,0,1,-1,-1,67.2%,2020,6
+4,Houston Texans (HOU),4,1,2,3,1,0,0,1,16,16,0.8%,2020,12
+7,Houston Texans (HOU),4,0,2,1,0,0,0,1,9,9,0.8%,2020,5
+14,Houston Texans (HOU),1,0,0,0,0,0,0,1,5,5,0.8%,2020,10
+19,Houston Texans (HOU),4,0,0,0,0,0,0,1,4,4,0.8%,2020,2
+17,Houston Texans (HOU),2,1,1,1,0,0,0,1,4,4,0.8%,2020,6
+16,Houston Texans (HOU),2,1,0,1,0,0,0,1,4,4,0.8%,2020,9
+22,Houston Texans (HOU),2,0,0,0,0,0,0,1,3,3,0.8%,2020,11
+22,Houston Texans (HOU),3,0,0,0,0,0,0,1,3,3,0.8%,2020,13
+24,Houston Texans (HOU),3,0,0,0,0,0,0,1,2,2,0.8%,2020,4
+26,Houston Texans (HOU),2,0,0,1,0,0,0,1,1,1,0.8%,2020,3
+27,Houston Texans (HOU),1,0,0,0,0,0,0,1,1,1,0.8%,2020,15
+27,Houston Texans (HOU),1,0,0,0,0,0,0,1,0,0,0.8%,2020,1
+27,Houston Texans (HOU),2,0,1,2,0,0,0,1,0,0,0.8%,2020,17
+30,Houston Texans (HOU),3,0,0,0,0,0,0,1,-1,-1,0.8%,2020,14
+27,Houston Texans (HOU),0,0,0,0,0,0,0,1,-2,-2,0.8%,2020,7
+31,Houston Texans (HOU),0,0,0,0,0,0,0,1,-4,-4,0.8%,2020,16
+1,Indianapolis Colts (IND),2,3,0,0,2,1,0,1,26,26,52.9%,2020,3
+2,Indianapolis Colts (IND),3,3,0,0,0,1,0,1,15,15,52.9%,2020,2
+4,Indianapolis Colts (IND),5,1,1,1,1,0,0,1,15,15,52.9%,2020,8
+6,Indianapolis Colts (IND),5,1,1,1,0,1,0,1,12,12,52.9%,2020,13
+9,Indianapolis Colts (IND),0,2,1,1,1,0,0,1,12,12,52.9%,2020,14
+6,Indianapolis Colts (IND),1,2,0,1,0,0,1,1,11,11,52.9%,2020,5
+8,Indianapolis Colts (IND),1,0,0,0,0,0,1,1,10,10,52.9%,2020,10
+5,Indianapolis Colts (IND),5,0,2,3,0,0,0,1,10,10,52.9%,2020,15
+8,Indianapolis Colts (IND),6,0,1,1,0,0,0,1,9,9,52.9%,2020,17
+10,Indianapolis Colts (IND),1,1,3,1,0,0,0,1,8,8,52.9%,2020,11
+5,Indianapolis Colts (IND),1,1,0,0,0,0,0,1,7,7,52.9%,2020,4
+10,Indianapolis Colts (IND),2,0,1,1,0,0,0,1,5,5,52.9%,2020,9
+19,Indianapolis Colts (IND),4,0,0,0,0,0,0,1,4,4,52.9%,2020,1
+15,Indianapolis Colts (IND),2,1,0,1,0,0,0,1,4,4,52.9%,2020,6
+27,Indianapolis Colts (IND),1,0,0,0,0,0,0,1,0,0,52.9%,2020,16
+31,Indianapolis Colts (IND),1,0,0,0,0,0,0,1,-3,-3,52.9%,2020,12
+3,Jacksonville Jaguars (JAC),4,1,1,0,1,0,0,1,14,14,22.8%,2020,13
+6,Jacksonville Jaguars (JAC),1,1,1,2,0,0,1,1,11,11,22.8%,2020,10
+10,Jacksonville Jaguars (JAC),1,2,0,0,0,0,0,1,6,6,22.8%,2020,1
+16,Jacksonville Jaguars (JAC),1,0,0,0,0,0,1,1,5,5,22.8%,2020,7
+18,Jacksonville Jaguars (JAC),1,2,0,0,0,0,0,1,4,4,22.8%,2020,5
+14,Jacksonville Jaguars (JAC),2,0,1,1,0,0,0,1,4,4,22.8%,2020,9
+24,Jacksonville Jaguars (JAC),2,0,1,1,0,0,0,1,4,4,22.8%,2020,12
+23,Jacksonville Jaguars (JAC),1,1,0,0,0,0,0,1,2,2,22.8%,2020,4
+25,Jacksonville Jaguars (JAC),0,1,0,0,0,0,0,1,2,2,22.8%,2020,11
+22,Jacksonville Jaguars (JAC),1,0,1,1,0,0,0,1,2,2,22.8%,2020,14
+22,Jacksonville Jaguars (JAC),0,1,0,0,0,0,0,1,1,1,22.8%,2020,6
+26,Jacksonville Jaguars (JAC),0,1,0,0,0,0,0,1,1,1,22.8%,2020,17
+29,Jacksonville Jaguars (JAC),1,0,0,0,0,0,0,1,0,0,22.8%,2020,2
+29,Jacksonville Jaguars (JAC),1,0,0,0,0,0,0,1,0,0,22.8%,2020,3
+30,Jacksonville Jaguars (JAC),1,1,0,2,0,0,0,1,-1,-1,22.8%,2020,15
+30,Jacksonville Jaguars (JAC),1,1,0,1,0,0,0,1,-1,-1,22.8%,2020,16
+1,Kansas City Chiefs (KC),3,2,2,2,1,0,1,1,24,24,46.4%,2020,7
+1,Kansas City Chiefs (KC),2,3,1,1,1,0,0,1,20,20,46.4%,2020,4
+6,Kansas City Chiefs (KC),4,1,0,0,0,1,1,1,14,14,46.4%,2020,14
+6,Kansas City Chiefs (KC),1,0,1,1,0,0,0,1,9,9,46.4%,2020,8
+9,Kansas City Chiefs (KC),4,1,0,0,0,0,0,1,7,7,46.4%,2020,1
+14,Kansas City Chiefs (KC),4,0,1,3,0,0,0,1,7,7,46.4%,2020,3
+10,Kansas City Chiefs (KC),4,0,1,3,0,0,0,1,7,7,46.4%,2020,16
+14,Kansas City Chiefs (KC),2,1,0,0,0,0,0,1,5,5,46.4%,2020,2
+22,Kansas City Chiefs (KC),1,2,0,0,0,0,0,1,5,5,46.4%,2020,12
+15,Kansas City Chiefs (KC),0,2,0,0,0,0,0,1,5,5,46.4%,2020,13
+18,Kansas City Chiefs (KC),0,1,0,0,0,0,0,1,3,3,46.4%,2020,6
+26,Kansas City Chiefs (KC),1,1,0,0,0,0,0,1,2,2,46.4%,2020,15
+26,Kansas City Chiefs (KC),2,0,0,1,0,0,0,1,1,1,46.4%,2020,9
+26,Kansas City Chiefs (KC),0,1,0,0,0,0,0,1,1,1,46.4%,2020,11
+26,Kansas City Chiefs (KC),1,1,0,0,0,0,0,1,-1,-1,46.4%,2020,5
+29,Kansas City Chiefs (KC),3,0,0,0,0,0,0,1,-1,-1,46.4%,2020,17
+1,Las Vegas Raiders (LV),2,4,1,2,0,0,0,1,16,16,11.2%,2020,10
+7,Las Vegas Raiders (LV),0,0,1,1,0,0,0,1,9,9,11.2%,2020,8
+10,Las Vegas Raiders (LV),3,1,2,2,0,0,0,1,8,8,11.2%,2020,13
+17,Las Vegas Raiders (LV),2,0,0,0,0,0,0,1,5,5,11.2%,2020,17
+17,Las Vegas Raiders (LV),3,1,0,0,0,0,0,1,4,4,11.2%,2020,5
+13,Las Vegas Raiders (LV),2,0,1,1,0,0,0,1,4,4,11.2%,2020,9
+22,Las Vegas Raiders (LV),2,1,0,0,0,0,0,1,3,3,11.2%,2020,3
+21,Las Vegas Raiders (LV),3,0,0,0,0,0,0,1,3,3,11.2%,2020,16
+25,Las Vegas Raiders (LV),0,1,0,0,0,0,0,1,2,2,11.2%,2020,2
+29,Las Vegas Raiders (LV),1,0,0,0,0,0,0,1,0,0,11.2%,2020,1
+28,Las Vegas Raiders (LV),1,0,0,0,0,0,0,1,0,0,11.2%,2020,4
+28,Las Vegas Raiders (LV),1,0,0,1,0,0,0,1,0,0,11.2%,2020,15
+30,Las Vegas Raiders (LV),1,1,0,0,0,0,0,1,-1,-1,11.2%,2020,12
+28,Las Vegas Raiders (LV),0,1,0,0,0,0,0,1,-2,-2,11.2%,2020,11
+28,Las Vegas Raiders (LV),0,0,0,1,0,0,0,1,-4,-4,11.2%,2020,7
+32,Las Vegas Raiders (LV),0,0,0,0,0,0,0,1,-4,-4,11.2%,2020,14
+4,Los Angeles Chargers (LAC),3,1,1,1,0,0,0,1,11,11,42.7%,2020,1
+15,Los Angeles Chargers (LAC),3,1,2,1,0,0,0,1,9,9,42.7%,2020,12
+13,Los Angeles Chargers (LAC),2,3,0,0,0,0,0,1,9,9,42.7%,2020,14
+7,Los Angeles Chargers (LAC),1,1,0,0,1,0,0,1,8,8,42.7%,2020,11
+8,Los Angeles Chargers (LAC),5,0,1,0,0,0,0,1,7,7,42.7%,2020,7
+12,Los Angeles Chargers (LAC),2,2,0,0,0,0,0,1,7,7,42.7%,2020,16
+16,Los Angeles Chargers (LAC),1,0,1,0,0,1,0,1,5,5,42.7%,2020,17
+18,Los Angeles Chargers (LAC),2,0,0,0,0,0,0,1,4,4,42.7%,2020,3
+19,Los Angeles Chargers (LAC),0,1,0,0,1,0,0,1,4,4,42.7%,2020,4
+22,Los Angeles Chargers (LAC),1,0,0,0,0,0,0,1,3,3,42.7%,2020,2
+21,Los Angeles Chargers (LAC),2,1,0,1,0,0,0,1,3,3,42.7%,2020,5
+20,Los Angeles Chargers (LAC),2,1,0,0,0,0,0,1,3,3,42.7%,2020,8
+19,Los Angeles Chargers (LAC),1,1,0,0,0,0,0,1,3,3,42.7%,2020,15
+22,Los Angeles Chargers (LAC),1,0,1,1,0,0,0,1,2,2,42.7%,2020,9
+22,Los Angeles Chargers (LAC),0,0,1,0,0,0,0,1,1,1,42.7%,2020,10
+30,Los Angeles Chargers (LAC),1,0,0,1,0,0,0,1,-3,-3,42.7%,2020,13
+2,Los Angeles Rams (LAR),6,1,0,0,1,0,0,1,21,21,34.8%,2020,14
+2,Los Angeles Rams (LAR),4,1,0,1,1,1,0,1,20,20,34.8%,2020,17
+4,Los Angeles Rams (LAR),4,2,0,0,0,0,0,1,15,15,34.8%,2020,7
+7,Los Angeles Rams (LAR),2,1,2,3,1,0,0,1,15,15,34.8%,2020,12
+3,Los Angeles Rams (LAR),6,2,1,0,0,0,0,1,13,13,34.8%,2020,10
+4,Los Angeles Rams (LAR),8,0,0,1,0,0,0,1,12,12,34.8%,2020,5
+3,Los Angeles Rams (LAR),5,1,0,1,0,0,0,1,11,11,34.8%,2020,4
+7,Los Angeles Rams (LAR),2,1,1,1,1,0,0,1,11,11,34.8%,2020,13
+9,Los Angeles Rams (LAR),0,2,1,1,0,0,0,1,7,7,34.8%,2020,2
+14,Los Angeles Rams (LAR),5,0,0,0,0,0,0,1,6,6,34.8%,2020,16
+13,Los Angeles Rams (LAR),1,0,2,2,0,0,0,1,5,5,34.8%,2020,8
+13,Los Angeles Rams (LAR),1,2,0,0,0,0,0,1,5,5,34.8%,2020,11
+18,Los Angeles Rams (LAR),3,0,0,0,0,0,0,1,4,4,34.8%,2020,1
+19,Los Angeles Rams (LAR),4,1,1,1,0,0,0,1,4,4,34.8%,2020,3
+25,Los Angeles Rams (LAR),2,0,0,1,0,0,0,1,2,2,34.8%,2020,15
+24,Los Angeles Rams (LAR),0,0,0,0,0,0,0,1,0,0,34.8%,2020,6
+1,Miami Dolphins (MIA),2,2,2,2,1,0,1,1,23,23,24.9%,2020,8
+4,Miami Dolphins (MIA),3,1,0,0,0,0,0,1,15,15,24.9%,2020,6
+10,Miami Dolphins (MIA),3,2,0,0,0,0,0,1,14,14,24.9%,2020,12
+2,Miami Dolphins (MIA),6,2,0,0,0,0,0,1,14,14,24.9%,2020,13
+6,Miami Dolphins (MIA),4,1,1,1,0,0,0,1,12,12,24.9%,2020,3
+3,Miami Dolphins (MIA),5,2,1,2,0,0,0,1,12,12,24.9%,2020,5
+10,Miami Dolphins (MIA),3,3,1,1,0,0,0,1,10,10,24.9%,2020,14
+7,Miami Dolphins (MIA),3,0,1,3,0,0,0,1,9,9,24.9%,2020,15
+7,Miami Dolphins (MIA),1,0,1,1,1,0,0,1,8,8,24.9%,2020,9
+11,Miami Dolphins (MIA),2,1,0,0,0,0,0,1,6,6,24.9%,2020,10
+15,Miami Dolphins (MIA),0,1,1,1,0,0,0,1,5,5,24.9%,2020,11
+18,Miami Dolphins (MIA),3,0,1,0,0,0,0,1,5,5,24.9%,2020,16
+21,Miami Dolphins (MIA),2,1,0,1,0,0,0,1,3,3,24.9%,2020,4
+24,Miami Dolphins (MIA),2,0,0,1,0,0,0,1,2,2,24.9%,2020,1
+27,Miami Dolphins (MIA),1,0,1,1,0,0,0,1,2,2,24.9%,2020,2
+24,Miami Dolphins (MIA),1,2,0,0,0,0,0,1,1,1,24.9%,2020,17
+4,Minnesota Vikings (MIN),2,2,2,2,0,1,0,1,13,13,19.7%,2020,13
+7,Minnesota Vikings (MIN),2,1,1,0,0,0,0,1,10,10,19.7%,2020,10
+6,Minnesota Vikings (MIN),2,3,0,1,0,0,0,1,9,9,19.7%,2020,9
+14,Minnesota Vikings (MIN),4,1,0,0,0,0,0,1,6,6,19.7%,2020,5
+12,Minnesota Vikings (MIN),3,0,1,0,0,0,0,1,5,5,19.7%,2020,4
+21,Minnesota Vikings (MIN),0,1,0,0,0,0,0,1,5,5,19.7%,2020,12
+18,Minnesota Vikings (MIN),1,1,0,0,0,0,0,1,4,4,19.7%,2020,11
+20,Minnesota Vikings (MIN),2,1,0,1,0,0,0,1,3,3,19.7%,2020,2
+23,Minnesota Vikings (MIN),2,1,0,1,0,0,0,1,3,3,19.7%,2020,3
+21,Minnesota Vikings (MIN),1,0,1,1,0,0,0,1,3,3,19.7%,2020,8
+23,Minnesota Vikings (MIN),1,1,0,0,0,0,0,1,2,2,19.7%,2020,15
+25,Minnesota Vikings (MIN),1,1,1,0,0,0,0,1,1,1,19.7%,2020,17
+25,Minnesota Vikings (MIN),2,0,1,1,0,0,0,1,0,0,19.7%,2020,6
+27,Minnesota Vikings (MIN),0,0,0,0,0,0,0,1,0,0,19.7%,2020,14
+28,Minnesota Vikings (MIN),0,2,0,0,0,0,0,1,0,0,19.7%,2020,16
+32,Minnesota Vikings (MIN),0,0,0,1,0,0,0,1,-4,-4,19.7%,2020,1
+1,New England Patriots (NE),3,2,0,0,0,0,2,1,31,31,52.5%,2020,13
+3,New England Patriots (NE),2,0,3,3,1,0,0,1,15,15,52.5%,2020,3
+5,New England Patriots (NE),1,3,0,0,0,0,0,1,11,11,52.5%,2020,1
+11,New England Patriots (NE),3,2,0,0,0,0,0,1,8,8,52.5%,2020,17
+8,New England Patriots (NE),2,2,0,0,0,0,0,1,7,7,52.5%,2020,6
+10,New England Patriots (NE),2,1,0,0,1,0,0,1,6,6,52.5%,2020,2
+14,New England Patriots (NE),1,2,0,0,0,0,0,1,6,6,52.5%,2020,7
+17,New England Patriots (NE),2,1,0,0,0,0,0,1,5,5,52.5%,2020,10
+20,New England Patriots (NE),2,1,0,0,0,0,0,1,5,5,52.5%,2020,12
+17,New England Patriots (NE),1,0,1,1,0,0,0,1,4,4,52.5%,2020,4
+18,New England Patriots (NE),1,1,0,0,0,0,0,1,4,4,52.5%,2020,14
+17,New England Patriots (NE),2,1,0,0,0,0,0,1,4,4,52.5%,2020,15
+22,New England Patriots (NE),1,1,0,0,0,0,0,1,3,3,52.5%,2020,8
+21,New England Patriots (NE),1,1,0,0,0,0,0,1,3,3,52.5%,2020,9
+27,New England Patriots (NE),0,0,0,0,0,0,0,1,0,0,52.5%,2020,11
+32,New England Patriots (NE),0,0,0,1,0,0,0,1,-4,-4,52.5%,2020,16
+1,New Orleans Saints (NO),3,2,1,1,1,0,0,1,17,17,62.8%,2020,1
+3,New Orleans Saints (NO),3,5,0,0,0,0,0,1,17,17,62.8%,2020,17
+1,New Orleans Saints (NO),3,3,0,0,0,0,0,1,16,16,62.8%,2020,9
+4,New Orleans Saints (NO),8,2,0,0,0,0,0,1,16,16,62.8%,2020,11
+2,New Orleans Saints (NO),2,2,2,0,0,0,0,1,14,14,62.8%,2020,10
+9,New Orleans Saints (NO),1,2,1,0,0,0,0,1,14,14,62.8%,2020,12
+10,New Orleans Saints (NO),5,1,0,0,0,0,0,1,7,7,62.8%,2020,8
+11,New Orleans Saints (NO),4,0,1,1,0,1,0,1,7,7,62.8%,2020,15
+12,New Orleans Saints (NO),3,0,1,1,0,0,0,1,6,6,62.8%,2020,13
+16,New Orleans Saints (NO),3,0,1,0,0,0,0,1,4,4,62.8%,2020,2
+20,New Orleans Saints (NO),3,1,0,0,0,0,0,1,4,4,62.8%,2020,4
+20,New Orleans Saints (NO),3,0,0,0,0,0,0,1,3,3,62.8%,2020,5
+21,New Orleans Saints (NO),0,0,1,1,0,0,0,1,2,2,62.8%,2020,14
+24,New Orleans Saints (NO),1,0,0,0,0,0,0,1,1,1,62.8%,2020,7
+25,New Orleans Saints (NO),2,0,0,2,0,0,0,1,1,1,62.8%,2020,16
+32,New Orleans Saints (NO),1,0,0,0,0,0,0,1,-3,-3,62.8%,2020,3
+6,New York Giants (NYG),3,1,1,1,1,0,0,1,14,14,24.7%,2020,6
+4,New York Giants (NYG),2,3,2,1,0,0,0,1,13,13,24.7%,2020,9
+5,New York Giants (NYG),5,1,1,2,0,0,0,1,13,13,24.7%,2020,13
+5,New York Giants (NYG),2,1,1,0,1,0,0,1,11,11,24.7%,2020,5
+8,New York Giants (NYG),4,2,0,1,0,0,0,1,9,9,24.7%,2020,2
+16,New York Giants (NYG),2,1,2,2,0,0,0,1,9,9,24.7%,2020,12
+9,New York Giants (NYG),6,1,0,0,0,0,0,1,9,9,24.7%,2020,17
+14,New York Giants (NYG),2,0,1,2,0,0,0,1,5,5,24.7%,2020,4
+15,New York Giants (NYG),3,1,0,0,0,0,0,1,5,5,24.7%,2020,7
+17,New York Giants (NYG),2,0,1,1,0,0,0,1,4,4,24.7%,2020,1
+17,New York Giants (NYG),2,0,1,1,0,0,0,1,4,4,24.7%,2020,8
+18,New York Giants (NYG),3,0,0,0,0,0,0,1,4,4,24.7%,2020,10
+21,New York Giants (NYG),1,0,0,0,0,0,0,1,2,2,24.7%,2020,15
+24,New York Giants (NYG),0,0,1,0,0,0,0,1,2,2,24.7%,2020,16
+26,New York Giants (NYG),1,0,0,2,0,0,0,1,1,1,24.7%,2020,14
+31,New York Giants (NYG),2,0,0,0,0,0,0,1,-2,-2,24.7%,2020,3
+12,New York Jets (NYJ),4,0,2,4,0,0,0,1,9,9,19.1%,2020,12
+9,New York Jets (NYJ),4,0,2,3,0,0,0,1,9,9,19.1%,2020,16
+4,New York Jets (NYJ),0,3,0,0,1,0,0,1,8,8,19.1%,2020,4
+9,New York Jets (NYJ),3,0,1,1,0,1,0,1,8,8,19.1%,2020,11
+10,New York Jets (NYJ),3,1,0,0,0,0,0,1,8,8,19.1%,2020,15
+8,New York Jets (NYJ),3,0,2,2,0,0,0,1,7,7,19.1%,2020,1
+11,New York Jets (NYJ),2,2,0,0,0,0,0,1,6,6,19.1%,2020,6
+17,New York Jets (NYJ),2,0,1,1,0,0,0,1,5,5,19.1%,2020,7
+13,New York Jets (NYJ),2,1,1,2,0,0,0,1,5,5,19.1%,2020,13
+15,New York Jets (NYJ),3,1,0,1,0,0,0,1,4,4,19.1%,2020,2
+23,New York Jets (NYJ),1,1,0,0,0,0,0,1,2,2,19.1%,2020,5
+22,New York Jets (NYJ),3,0,0,1,0,0,0,1,2,2,19.1%,2020,17
+28,New York Jets (NYJ),0,0,0,0,0,0,0,1,0,0,19.1%,2020,3
+28,New York Jets (NYJ),0,0,0,1,0,0,0,1,-1,-1,19.1%,2020,9
+29,New York Jets (NYJ),1,1,0,0,0,0,0,1,-1,-1,19.1%,2020,14
+28,New York Jets (NYJ),0,0,0,1,0,0,0,1,-4,-4,19.1%,2020,8
+2,Philadelphia Eagles (PHI),4,0,2,2,1,1,0,1,20,20,57.2%,2020,8
+2,Philadelphia Eagles (PHI),5,2,1,1,1,0,0,1,18,18,57.2%,2020,4
+7,Philadelphia Eagles (PHI),3,1,2,2,0,0,0,1,9,9,57.2%,2020,7
+14,Philadelphia Eagles (PHI),5,1,1,1,0,0,0,1,9,9,57.2%,2020,14
+9,Philadelphia Eagles (PHI),8,0,0,0,0,0,0,1,8,8,57.2%,2020,3
+8,Philadelphia Eagles (PHI),3,0,1,1,0,0,0,1,8,8,57.2%,2020,11
+10,Philadelphia Eagles (PHI),3,2,0,0,0,0,0,1,8,8,57.2%,2020,17
+11,Philadelphia Eagles (PHI),2,0,0,0,0,0,1,1,7,7,57.2%,2020,13
+13,Philadelphia Eagles (PHI),1,1,2,2,0,0,0,1,6,6,57.2%,2020,15
+21,Philadelphia Eagles (PHI),3,0,0,1,0,0,0,1,3,3,57.2%,2020,1
+20,Philadelphia Eagles (PHI),3,0,0,0,0,0,0,1,3,3,57.2%,2020,10
+21,Philadelphia Eagles (PHI),3,0,0,1,1,0,0,1,2,2,57.2%,2020,6
+26,Philadelphia Eagles (PHI),2,0,0,0,0,0,0,1,2,2,57.2%,2020,12
+28,Philadelphia Eagles (PHI),1,0,1,0,0,0,0,1,1,1,57.2%,2020,2
+26,Philadelphia Eagles (PHI),2,1,0,0,0,0,0,1,0,0,57.2%,2020,16
+25,Philadelphia Eagles (PHI),1,0,1,1,0,0,0,1,-1,-1,57.2%,2020,5
+2,Pittsburgh Steelers (PIT),4,2,0,1,1,0,0,1,18,18,50.2%,2020,6
+3,Pittsburgh Steelers (PIT),4,2,2,3,1,0,0,1,18,18,50.2%,2020,8
+2,Pittsburgh Steelers (PIT),2,4,0,1,0,0,0,1,17,17,50.2%,2020,11
+8,Pittsburgh Steelers (PIT),3,1,1,0,1,0,0,1,14,14,50.2%,2020,12
+4,Pittsburgh Steelers (PIT),7,1,1,1,0,1,0,1,13,13,50.2%,2020,2
+5,Pittsburgh Steelers (PIT),4,0,2,1,0,0,0,1,12,12,50.2%,2020,10
+8,Pittsburgh Steelers (PIT),5,1,1,1,0,0,0,1,9,9,50.2%,2020,16
+7,Pittsburgh Steelers (PIT),3,2,0,0,0,0,0,1,8,8,50.2%,2020,1
+10,Pittsburgh Steelers (PIT),5,2,0,0,0,0,0,1,8,8,50.2%,2020,5
+15,Pittsburgh Steelers (PIT),5,1,0,0,0,0,0,1,7,7,50.2%,2020,3
+8,Pittsburgh Steelers (PIT),2,1,1,1,0,0,0,1,7,7,50.2%,2020,9
+17,Pittsburgh Steelers (PIT),1,1,1,2,0,0,0,1,6,6,50.2%,2020,14
+18,Pittsburgh Steelers (PIT),4,0,0,0,0,0,0,1,4,4,50.2%,2020,17
+20,Pittsburgh Steelers (PIT),3,0,0,1,0,0,0,1,3,3,50.2%,2020,13
+20,Pittsburgh Steelers (PIT),2,0,0,0,0,0,0,1,2,2,50.2%,2020,7
+22,Pittsburgh Steelers (PIT),2,0,0,0,0,0,0,1,2,2,50.2%,2020,15
+29,Pittsburgh Steelers (PIT),0,0,0,0,0,0,0,1,0,0,50.2%,2020,4
+3,San Francisco 49ers (SF),2,4,0,1,0,0,0,1,17,17,96.0%,2020,7
+3,San Francisco 49ers (SF),2,2,2,2,1,0,0,1,17,17,96.0%,2020,12
+5,San Francisco 49ers (SF),2,1,2,2,0,0,0,1,12,12,96.0%,2020,3
+3,San Francisco 49ers (SF),3,1,1,2,0,0,0,1,11,11,96.0%,2020,16
+16,San Francisco 49ers (SF),2,1,0,0,0,0,0,1,8,8,96.0%,2020,14
+9,San Francisco 49ers (SF),3,0,2,1,0,0,0,1,7,7,96.0%,2020,10
+7,San Francisco 49ers (SF),3,1,0,0,0,0,0,1,6,6,96.0%,2020,4
+12,San Francisco 49ers (SF),1,0,0,0,0,0,0,1,5,5,96.0%,2020,2
+13,San Francisco 49ers (SF),0,1,0,0,0,0,0,1,5,5,96.0%,2020,6
+14,San Francisco 49ers (SF),2,1,0,2,0,0,0,1,4,4,96.0%,2020,1
+25,San Francisco 49ers (SF),1,0,1,1,0,0,0,1,2,2,96.0%,2020,13
+21,San Francisco 49ers (SF),2,0,0,0,0,0,0,1,2,2,96.0%,2020,17
+27,San Francisco 49ers (SF),1,0,0,0,0,0,0,1,0,0,96.0%,2020,9
+27,San Francisco 49ers (SF),2,0,0,0,0,0,0,1,-2,-2,96.0%,2020,5
+27,San Francisco 49ers (SF),2,0,0,0,0,0,0,1,-2,-2,96.0%,2020,8
+32,San Francisco 49ers (SF),2,0,0,0,0,0,0,1,-2,-2,96.0%,2020,15
+8,Seattle Seahawks (SEA),3,0,1,1,0,0,0,1,12,12,15.0%,2020,14
+7,Seattle Seahawks (SEA),2,2,1,1,0,1,0,1,11,11,15.0%,2020,3
+14,Seattle Seahawks (SEA),6,1,0,0,0,0,0,1,9,9,15.0%,2020,12
+9,Seattle Seahawks (SEA),2,1,0,0,0,1,0,1,9,9,15.0%,2020,13
+6,Seattle Seahawks (SEA),4,2,0,1,0,0,0,1,9,9,15.0%,2020,15
+7,Seattle Seahawks (SEA),3,1,0,0,0,0,0,1,9,9,15.0%,2020,16
+11,Seattle Seahawks (SEA),3,1,1,2,0,0,0,1,7,7,15.0%,2020,5
+9,Seattle Seahawks (SEA),3,1,1,1,0,0,0,1,7,7,15.0%,2020,8
+11,Seattle Seahawks (SEA),2,1,1,1,0,0,0,1,6,6,15.0%,2020,1
+16,Seattle Seahawks (SEA),1,2,0,1,0,0,0,1,5,5,15.0%,2020,4
+15,Seattle Seahawks (SEA),3,0,1,1,0,0,0,1,5,5,15.0%,2020,10
+14,Seattle Seahawks (SEA),3,0,0,0,0,1,0,1,5,5,15.0%,2020,11
+15,Seattle Seahawks (SEA),3,0,1,1,0,0,0,1,5,5,15.0%,2020,17
+23,Seattle Seahawks (SEA),1,1,0,0,0,0,0,1,3,3,15.0%,2020,2
+20,Seattle Seahawks (SEA),7,0,0,0,0,0,0,1,3,3,15.0%,2020,9
+25,Seattle Seahawks (SEA),0,1,1,2,0,0,0,1,0,0,15.0%,2020,7
+1,Tampa Bay Buccaneers (TB),5,2,0,1,1,0,0,1,19,19,84.2%,2020,6
+2,Tampa Bay Buccaneers (TB),6,2,0,1,0,1,0,1,18,18,84.2%,2020,3
+3,Tampa Bay Buccaneers (TB),5,2,2,2,0,0,0,1,14,14,84.2%,2020,2
+2,Tampa Bay Buccaneers (TB),4,1,1,1,0,0,0,1,12,12,84.2%,2020,16
+12,Tampa Bay Buccaneers (TB),6,0,1,2,0,0,0,1,9,9,84.2%,2020,14
+8,Tampa Bay Buccaneers (TB),3,2,0,0,0,0,0,1,7,7,84.2%,2020,8
+8,Tampa Bay Buccaneers (TB),2,1,1,1,0,0,0,1,6,6,84.2%,2020,4
+13,Tampa Bay Buccaneers (TB),3,1,0,1,0,0,0,1,6,6,84.2%,2020,5
+13,Tampa Bay Buccaneers (TB),3,1,0,1,0,0,0,1,6,6,84.2%,2020,7
+16,Tampa Bay Buccaneers (TB),3,1,0,0,0,0,0,1,5,5,84.2%,2020,10
+14,Tampa Bay Buccaneers (TB),1,0,2,2,0,0,0,1,5,5,84.2%,2020,17
+19,Tampa Bay Buccaneers (TB),0,2,0,0,0,0,0,1,4,4,84.2%,2020,11
+25,Tampa Bay Buccaneers (TB),2,0,1,1,0,0,0,1,4,4,84.2%,2020,12
+18,Tampa Bay Buccaneers (TB),3,0,0,0,0,0,0,1,3,3,84.2%,2020,15
+25,Tampa Bay Buccaneers (TB),1,0,2,2,0,0,0,1,1,1,84.2%,2020,9
+26,Tampa Bay Buccaneers (TB),1,0,0,0,0,0,0,1,0,0,84.2%,2020,1
+3,Tennessee Titans (TEN),3,0,2,2,1,0,0,1,14,14,26.8%,2020,9
+11,Tennessee Titans (TEN),2,1,0,0,0,0,1,1,10,10,26.8%,2020,12
+9,Tennessee Titans (TEN),1,2,1,1,0,0,0,1,8,8,26.8%,2020,5
+15,Tennessee Titans (TEN),0,1,0,0,0,0,0,1,8,8,26.8%,2020,14
+11,Tennessee Titans (TEN),2,2,1,1,0,0,0,1,7,7,26.8%,2020,3
+12,Tennessee Titans (TEN),0,3,0,2,0,0,0,1,6,6,26.8%,2020,7
+14,Tennessee Titans (TEN),0,1,2,2,0,0,0,1,6,6,26.8%,2020,15
+11,Tennessee Titans (TEN),2,2,0,0,0,0,0,1,5,5,26.8%,2020,2
+20,Tennessee Titans (TEN),0,0,1,2,0,0,0,1,3,3,26.8%,2020,1
+21,Tennessee Titans (TEN),1,1,0,0,0,0,0,1,3,3,26.8%,2020,11
+20,Tennessee Titans (TEN),4,1,0,0,0,0,0,1,2,2,26.8%,2020,17
+31,Tennessee Titans (TEN),0,0,0,0,0,0,0,1,0,0,26.8%,2020,4
+25,Tennessee Titans (TEN),1,0,0,0,0,0,0,1,0,0,26.8%,2020,10
+26,Tennessee Titans (TEN),0,0,0,0,0,0,0,1,-1,-1,26.8%,2020,8
+29,Tennessee Titans (TEN),1,1,0,0,0,0,0,1,-1,-1,26.8%,2020,16
+27,Tennessee Titans (TEN),2,0,0,0,0,0,0,1,-2,-2,26.8%,2020,6
+29,Tennessee Titans (TEN),0,0,1,1,1,0,0,1,-2,-2,26.8%,2020,13
+1,Washington Commanders (WAS),4,1,2,2,2,0,0,1,23,23,51.3%,2020,14
+2,Washington Commanders (WAS),6,1,0,2,0,1,0,1,17,17,51.3%,2020,7
+2,Washington Commanders (WAS),8,2,1,2,0,0,0,1,15,15,51.3%,2020,1
+5,Washington Commanders (WAS),4,1,1,1,1,0,0,1,15,15,51.3%,2020,12
+5,Washington Commanders (WAS),4,1,1,1,0,0,0,1,12,12,51.3%,2020,11
+7,Washington Commanders (WAS),3,2,1,0,0,0,0,1,10,10,51.3%,2020,17
+6,Washington Commanders (WAS),4,1,1,2,0,0,0,1,9,9,51.3%,2020,16
+11,Washington Commanders (WAS),5,0,0,1,0,0,0,1,5,5,51.3%,2020,9
+17,Washington Commanders (WAS),3,1,0,1,0,0,0,1,4,4,51.3%,2020,2
+18,Washington Commanders (WAS),1,2,0,0,0,0,0,1,4,4,51.3%,2020,4
+14,Washington Commanders (WAS),1,1,0,0,0,0,0,1,4,4,51.3%,2020,6
+21,Washington Commanders (WAS),0,1,0,0,0,0,0,1,3,3,51.3%,2020,13
+20,Washington Commanders (WAS),0,1,0,0,0,0,0,1,3,3,51.3%,2020,15
+22,Washington Commanders (WAS),1,1,0,1,0,0,0,1,2,2,51.3%,2020,5
+27,Washington Commanders (WAS),2,0,0,0,0,0,0,1,1,1,51.3%,2020,3
+26,Washington Commanders (WAS),1,0,0,0,0,0,0,1,0,0,51.3%,2020,10

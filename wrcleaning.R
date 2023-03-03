@@ -1,0 +1,138 @@
+library(dplyr)
+library(tidyverse)
+library(stringr)
+
+clean <- function(year) {
+  allweeks <- read_csv(paste0("data/wr/", year, "/raw/allweeks.csv"))
+  allweeks <- allweeks %>% group_by(Player) %>%
+    summarize(Pos = "WR", GP = sum(G), GPct = 1 - ifelse(year != 2022 & GP < 10, (10 - GP)*.03, ifelse(year == 2022 & GP < 10, (10 - GP)*.03, 0)), 
+              ATT = sum(ATT), ATTpG = ATT / GP, TGT = sum(TGT), TGTpG = TGT / GP, WeighTOUCHpG = ATTpG + 2*TGTpG, 
+              GoodBadPct = (sum(FPTS >= 17.5) - sum(FPTS <= 12.5)) / GP, GreatTerriblePct = (sum(FPTS >= 22.5) - sum(FPTS <= 7.5)) / GP,
+              StdDevFPTS = sd(FPTS), MedianFPTS = median(FPTS), MeanFPTS = mean(FPTS), AdjMeanFPTS = MeanFPTS/(StdDevFPTS^(1/4)) * 1.6125,
+              Score = (MedianFPTS*.25 + AdjMeanFPTS*.65 + WeighTOUCHpG*.1 + GoodBadPct*3 + GreatTerriblePct*3 + (MeanFPTS - MedianFPTS)*.25)*GPct) %>%
+    arrange(-Score) %>% filter(WeighTOUCHpG >= 5 & GP > 2) %>% select(Pos, Player, GP, WeighTOUCHpG, Score)
+  names(allweeks)[names(allweeks) == "GP"] <- paste0("GP", year)
+  names(allweeks)[names(allweeks) == "WeighTOUCHpG"] <- paste0("WeighTOUCHpG", year)
+  names(allweeks)[names(allweeks) == "Score"] <- paste0("Score", year)
+  return(allweeks)
+}
+
+WR2019 <- clean(2019)
+WR2020 <- clean(2020)
+WR2021 <- clean(2021)
+WR2022 <- clean(2022)
+allyears <- WR2022 %>% full_join(WR2021) %>% left_join(WR2020) %>% left_join(WR2019)
+allyears <- allyears %>% filter(!(str_detect(Player, "(FA)") & is.na(GP2022)))
+allscore <- data.frame(matrix(ncol = 15, nrow = 0))
+for(i in 1:nrow(allyears)) {
+  factor22 <- .6
+  factor21 <- .25
+  factor20 <- .1
+  factor19 <- .05
+  row <- allyears[i,]
+  if (is.na(row[5])) {
+    row[5] <- 0
+    factor22 <- 0
+    factor21 <- .625
+    factor20 <- .25
+    factor19 <- .125
+    if (is.na(row[8])) {
+      row[8] <- 0
+      factor22 <- 0
+      factor21 <- 0
+      factor20 <- .6667
+      factor19 <- .3333
+      if (is.na(row[11])) {
+        row[11] <- 0
+        factor22 <- 0
+        factor21 <- 0
+        factor20 <- 0
+        factor19 <- 1
+        if (is.na(row[14])) {
+          row[14] <- 0
+          factor22 <- 0
+          factor21 <- 0
+          factor20 <- 0
+          factor19 <- 0
+        } 
+      } else if (is.na(row[14])) {
+        row[14] <- 0
+        factor22 <- 0
+        factor21 <- 0
+        factor20 <- 1
+        factor19 <- 0
+      } 
+    } else if (is.na(row[11])) {
+      row[11] <- 0
+      factor22 <- 0
+      factor21 <- .8333
+      factor20 <- 0
+      factor19 <- .1667
+      if (is.na(row[14])) {
+        row[14] <- 0
+        factor22 <- 0
+        factor21 <- 1
+        factor20 <- 0
+        factor19 <- 0
+      } 
+    } else if (is.na(row[14])) {
+      row[14] <- 0
+      factor22 <- 0
+      factor21 <- .7143
+      factor20 <- .2857
+      factor19 <- 0
+    } 
+  } else if (is.na(row[8])) {
+    row[8] <- 0
+    factor22 <- .8
+    factor21 <- 0
+    factor20 <- .1333
+    factor19 <- .0667
+    if (is.na(row[11])) {
+      row[11] <- 0
+      factor22 <- .9231
+      factor21 <- 0
+      factor20 <- 0
+      factor19 <- .0769
+      if (is.na(row[14])) {
+        row[14] <- 0
+        factor22 <- 1
+        factor21 <- 0
+        factor20 <- 0
+        factor19 <- 0
+      } 
+    } else if (is.na(row[14])) {
+      row[14] <- 0
+      factor22 <- .8571
+      factor21 <- 0
+      factor20 <- .1429
+      factor19 <- 0
+    } 
+  } else if (is.na(row[11])) {
+    row[11] <- 0
+    factor22 <- .6667
+    factor21 <- .2778
+    factor20 <- 0
+    factor19 <- .0555
+    if (is.na(row[14])) {
+      row[14] <- 0
+      factor22 <- .7059
+      factor21 <- .2941
+      factor20 <- 0
+      factor19 <- 0
+    } 
+  } else if (is.na(row[14])) {
+    row[14] <- 0
+    factor22 <- .6316
+    factor21 <- .2631
+    factor20 <- .1053
+    factor19 <- 0
+  } 
+  row <- row %>% mutate(Score = Score2022*factor22 + Score2021*factor21 + Score2020*factor20 + Score2019*factor19)
+  if (row$Score2022 == 0) {
+    row$Score = row$Score*.82
+  }
+  allscore <- rbind(allscore, row)
+}
+allscore <- allscore %>% select(Pos, Player, Score2022, Score2021, Score2020, Score2019, Score) %>% arrange(-Score)
+write_csv(allscore, "data/wr/allscore.csv")
